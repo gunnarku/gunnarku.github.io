@@ -1,7 +1,7 @@
 # Gunnar Kudrjavets
 
 ## The Real World
-For the most of my career I have been a knuckle dragger software engineer
+For the most of my career I have been a software engineer
 who likes to design, write and optimize low-level code (which in this day
 and age is defined as `C` or `C++`).
 My favorite shell is a debugger prompt.
