@@ -10,13 +10,13 @@ Microsoft taught me how to be an operating systems engineer who knows
 a thing or two about systems performance and security.
 Facebook enabled me to refine those skills in a different context.
 
-Public description of my career evolution is at my
+Public description of my career evolution is on my
 [LinkedIn page](https://www.linkedin.com/in/gunnarku/).
 
 ## Research
- My research projects are focused on empirical challenges coming from
- existing large-scale industry projects. The key qualifier for me
- is that the results from any study I am involved with must be useful
- for software engineers.
+My research projects are focused on empirical challenges coming from
+the existing large-scale software projects in industry.
+The key qualifier for me is the practical application of results.
+Any study I am involved with must be eventually useful for software engineers.
 
 **Keywords:** Empirical Software Engineering; Assertions; Mining Software Repositories; Systems Programming
