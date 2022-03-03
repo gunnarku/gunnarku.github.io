@@ -22,4 +22,9 @@ Any study I am involved with must be eventually useful for software engineers.
 
 - **To appear:** Gunnar Kudrjavets, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[The Unexplored Terrain of Compiler Warnings](https://arxiv.org/abs/2201.10599)*. In Proceedings of The 44th International Conference on Software Engineering (ICSE 2022). ACM, New York, NY, USA.
 
+### Academic activity
+
+- Member of [Shadow PC (program committee)](https://conf.researchr.org/track/msr-2022/msr-2022-shadow-pc) for 2022 Mining Software Repositories Conference.
+- Member of PC for [ICSME 2022 Industry Track](https://cyprusconferences.org/icsme2022/call-for-industry-track/).
+
 **Keywords:** Empirical Software Engineering; Assertions; Mining Software Repositories; Systems Programming
