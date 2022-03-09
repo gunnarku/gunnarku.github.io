@@ -20,7 +20,8 @@ Any study I am involved with must be eventually useful for software engineers.
 
 ### Recent papers
 
-- **To appear:** Gunnar Kudrjavets, Nachiappan Nagappan, and Ayushi Rastogi. 2022. Do Small Code Changes Merge Faster? A Multi-Language Empirical Investigation. In Proceedings of MSR ’22: Proceedings of the 19th International Conference on Mining Software Repositories (MSR 2022). ACM, New York, NY, USA.
+- **To appear:** Gunnar Kudrjavets, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. Mining Code Review Data to Understand Waiting Times Between Acceptance and Merging: An Empirical Analysis. In Proceedings of MSR '22: Proceedings of the 19th International Conference on Mining Software Repositories (MSR 2022). ACM, New York, NY, USA.
+- **To appear:** Gunnar Kudrjavets, Nachiappan Nagappan, and Ayushi Rastogi. 2022. Do Small Code Changes Merge Faster? A Multi-Language Empirical Investigation. In Proceedings of MSR '22: Proceedings of the 19th International Conference on Mining Software Repositories (MSR 2022). ACM, New York, NY, USA.
 - **To appear:** Gunnar Kudrjavets, Jeff Thomas, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. 2022. Quantifying Daily Evolution of Mobile Software Based on Memory Allocator Churn. In Proceedings of The 9th International Conference on Mobile Software Engineering and Systems (MobileSoft '22). ACM, New York, NY, USA.
 - **To appear:** Gunnar Kudrjavets, Nachiappan Nagappan, and Ayushi Rastogi. 2022. The Unexplored Treasure Trove of Phabricator Code Reviews. In Proceedings of MSR '22: Proceedings of the 19th International Conference on Mining Software Repositories (MSR 2022). ACM, New York, NY, USA.
 - **To appear:** Gunnar Kudrjavets, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[The Unexplored Terrain of Compiler Warnings](https://arxiv.org/abs/2201.10599)*. In Proceedings of The 44th International Conference on Software Engineering (ICSE 2022). ACM, New York, NY, USA.
