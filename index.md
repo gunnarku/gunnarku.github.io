@@ -18,6 +18,8 @@ the existing large-scale software projects in industry.
 The key qualifier for me is the practical application of results.
 Any study I am involved with must be eventually useful for software engineers.
 
+[Resources](resources.md) I find helpful in pretending to be a semi-functioning Ph.D. candidate.
+
 ### Recent papers
 
 - **To appear:** Gunnar Kudrjavets, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. *[Mining Code Review Data to Understand Waiting Times Between Acceptance and Merging: An Empirical Analysis](https://arxiv.org/abs/2203.05048)*. In Proceedings of MSR '22: Proceedings of the 19th International Conference on Mining Software Repositories (MSR 2022). ACM, New York, NY, USA.
