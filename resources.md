@@ -51,7 +51,8 @@
 
 ## Random tools
 
-* https://titlecaseconverter.com/
-* https://capitalizemytitle.com/
-* https://zbib.org/
-* https://www.doi2bib.org/
+* [https://titlecaseconverter.com/](https://titlecaseconverter.com/)
+* [https://capitalizemytitle.com/](https://capitalizemytitle.com/)
+* [https://zbib.org/](https://zbib.org/)
+* [https://www.doi2bib.org/](https://www.doi2bib.org/)
+* [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner)
