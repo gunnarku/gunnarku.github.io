@@ -14,6 +14,7 @@
 * "[How to write a scientific abstract in six easy steps](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/)".
 * "[Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)" by [Jonathan Shewchuk](http://www.cs.cmu.edu/~jrs/).
 * "[Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)".
+* [APA Style Blog](https://apastyle.apa.org/blog).
 
 ## How to review papers?
 
@@ -27,6 +28,7 @@
 
 * "[The ASA Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)" by Ronald L. Wasserstein and Nicole A. Lazar.
 * "[Things I Have Learned (So Far)](https://doi.apa.org/doiLanding?doi=10.1037%2F0003-066X.45.12.1304)" by Jacob Cohen. Direct [PDF](https://tech.me.holycross.edu/files/2015/03/Cohen_1990.pdf).
+* "[Statistical significance: p value, 0.05 threshold, and applications to radiomics—reasons for a conservative approach]"(https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-0145-y) by Giovanni Di Leo and Francesco Sardanelli.
 
 ## People who write interesting stuff about research and real life
 
@@ -56,3 +58,4 @@
 * [https://zbib.org/](https://zbib.org/)
 * [https://www.doi2bib.org/](https://www.doi2bib.org/)
 * [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner)
+* [https://www.scopus.com/](https://www.scopus.com/)
