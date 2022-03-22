@@ -28,7 +28,7 @@
 
 * "[The ASA Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)" by Ronald L. Wasserstein and Nicole A. Lazar.
 * "[Things I Have Learned (So Far)](https://doi.apa.org/doiLanding?doi=10.1037%2F0003-066X.45.12.1304)" by Jacob Cohen. Direct [PDF](https://tech.me.holycross.edu/files/2015/03/Cohen_1990.pdf).
-* "[Statistical significance: p value, 0.05 threshold, and applications to radiomics—reasons for a conservative approach]"(https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-0145-y) by Giovanni Di Leo and Francesco Sardanelli.
+* "[Statistical significance: p value, 0.05 threshold, and applications to radiomics—reasons for a conservative approach](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-0145-y)" by Giovanni Di Leo and Francesco Sardanelli.
 
 ## People who write interesting stuff about research and real life
 
