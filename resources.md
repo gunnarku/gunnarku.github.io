@@ -15,6 +15,7 @@
 * "[Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)" by [Jonathan Shewchuk](http://www.cs.cmu.edu/~jrs/).
 * "[Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)".
 * [APA Style Blog](https://apastyle.apa.org/blog).
+* "[Writing Tips for IEEE Software](https://www.computer.org/csdl/magazine/so/write-for-us/14426)" by IEEE.
 
 ## How to review papers?
 
@@ -50,6 +51,7 @@
 * "[PhD Completion Milestones](https://collaboration.csc.ncsu.edu/laurie/PhD.html)".
 * "[The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)". It's worth reading all the other content from [Matt Might](https://matt.might.net/) as well.
 * "[A Reading List for PhD Students (and their Supervisors)](https://www2.dmst.aueb.gr/dds/res/phd/bib.htm)"
+* "[Open Science Policies](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies)" by [Daniel Graziotin](https://ineed.coffee/).
 
 ## Random tools
 
@@ -59,3 +61,4 @@
 * [https://www.doi2bib.org/](https://www.doi2bib.org/)
 * [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner)
 * [https://www.scopus.com/](https://www.scopus.com/)
+* [ISBN to BibTeX converter](https://www.bibtex.com/c/isbn-to-bibtex-converter/)
