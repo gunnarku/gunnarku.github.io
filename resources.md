@@ -1,5 +1,11 @@
 # Resources for PhD candidates
 
+## Books
+
+* "[Guide to Advanced Empirical Software Engineering](https://www.amazon.com/Guide-Advanced-Empirical-Software-Engineering/dp/184800043X)" by Forrest Shull, Janice Singer, and Dag I. K. Sjøberg.
+* "[How To Write A Better Thesis](https://www.amazon.com/Write-Better-Thesis-David-Evans/dp/3319042858/)" by David Evans, [Justin Zobel](https://www.mup.com.au/authors/justin-zobel), and Paul Gruba.
+* "[Writing for Computer Science](https://www.amazon.com/Writing-Computer-Science-Justin-Zobel/dp/144716640X/)" by [Justin Zobel](https://www.mup.com.au/authors/justin-zobel).
+
 ## How to do research?
 
 * "[How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)" by [Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/).
@@ -20,6 +26,7 @@
 ## How to review papers?
 
 * "[Hints for Reviewing Empirical Work in Software Engineering](https://dl.acm.org/doi/10.1023/A%3A1009844119158)" by Walter F. Tichy. Direct [PDF](https://selab.netlab.uky.edu/homepage/papers/tichy-overview.pdf).
+* "[Reviewing as an Essential Component of a Researcher’s Life](https://www.dropbox.com/s/cst1m0t7e48chz0/Reviewing.pdf?dl=0#)" by [Massimiliano Di Penta](https://mdipenta.github.io/).
 
 ## How to write rebuttals?
 
@@ -42,6 +49,7 @@
 * [Diomidis Spinellis](https://www.spinellis.gr/index.html.var)
 * [Jaideep Ganguly](https://jganguly.github.io/)
 * [Lorin Hochstein](http://lorinhochstein.org/)
+* [Massimiliano Di Penta](https://mdipenta.github.io/)
 * [Nachiappan (Nachi) Nagappan](https://nachinagappan.github.io/)
 * [Thomas Zimmermann](https://thomas-zimmermann.com/)
 
