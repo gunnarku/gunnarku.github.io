@@ -22,6 +22,7 @@ Any study I am involved with must be eventually useful for software engineers.
 
 ### Recent papers
 
+- **To appear:** Gunnar Kudrjavets, Jeff Thomas, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[Is Kernel Code Different From Non-Kernel Code? A Case Study of BSD Family Operating Systems](https://arxiv.org/abs/2206.05616)*. In 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022).
 - **To appear:** Gunnar Kudrjavets, Jeff Thomas, and Nachiappan Nagappan. 2022. *[The Evolving Landscape of Software Performance Engineering. In Proceedings of Evaluation and Assessment in Software Engineering (EASE '22)](https://arxiv.org/abs/2205.02950)*. ACM, New York, NY, USA.
 - Gunnar Kudrjavets, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[Mining Code Review Data to Understand Waiting Times Between Acceptance and Merging: An Empirical Analysis](https://arxiv.org/abs/2203.05048)*. In Proceedings of MSR '22: Proceedings of the 19th International Conference on Mining Software Repositories (MSR 2022). ACM, New York, NY, USA.
 - Gunnar Kudrjavets, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[Do Small Code Changes Merge Faster? A Multi-Language Empirical Investigation](https://arxiv.org/abs/2203.05045)*. In Proceedings of MSR '22: Proceedings of the 19th International Conference on Mining Software Repositories (MSR 2022). ACM, New York, NY, USA.
