@@ -12,6 +12,9 @@ Facebook enabled me to refine those skills in a different context.
 A public description of my career evolution is on my
 [LinkedIn page](https://www.linkedin.com/in/gunnarku/).
 
+My academic ties are associated with the [University of Groningen](https://www.cs.rug.nl/search/) (Netherlands),
+but physically I still live in the Seattle area, Washington, USA.
+
 ## Research
 My research projects focus on empirical challenges coming from
 the existing large-scale software projects in industry.
