@@ -37,6 +37,7 @@
 * "[The ASA Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)" by Ronald L. Wasserstein and Nicole A. Lazar.
 * "[Things I Have Learned (So Far)](https://doi.apa.org/doiLanding?doi=10.1037%2F0003-066X.45.12.1304)" by Jacob Cohen. Direct [PDF](https://tech.me.holycross.edu/files/2015/03/Cohen_1990.pdf).
 * "[Statistical significance: p value, 0.05 threshold, and applications to radiomics—reasons for a conservative approach](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-0145-y)" by Giovanni Di Leo and Francesco Sardanelli.
+* "[Statistics Done Wrong. The woefully complete guide](https://www.statisticsdonewrong.com/)" by [Alex Reinhart](https://www.refsmmat.com/).
 
 ## People who write interesting stuff about research and real life
 
@@ -60,6 +61,7 @@
 * "[The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)". It's worth reading all the other content from [Matt Might](https://matt.might.net/) as well.
 * "[A Reading List for PhD Students (and their Supervisors)](https://www2.dmst.aueb.gr/dds/res/phd/bib.htm)"
 * "[Open Science Policies](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies)" by [Daniel Graziotin](https://ineed.coffee/).
+* "The Ph.D. Grind. A Ph.D. Student Memoir" by Philip J. Guo. See if you can find a PDF copy somewhere. [All the existing links are dead](https://news.ycombinator.com/item?id=17494273).
 
 ## Random tools
 
