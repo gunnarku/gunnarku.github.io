@@ -25,6 +25,7 @@ Any study I am involved with must be eventually useful for software engineers.
 
 ### Recent papers
 
+- **To appear:** Gunnar Kudrjavets, Jeff Thomas, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[When malloc() Never Returns NULL -- Reliability as an Illusion](https://arxiv.org/abs/2208.08484)*. In 33rd IEEE International Symposium on Software Reliability Engineering ([ISSRE 2022](https://issre2022.github.io/)).
 - **To appear:** Gunnar Kudrjavets, Jeff Thomas, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[There Ain’t No Such Thing as a
 Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022).
 - **To appear:** Gunnar Kudrjavets, Ayushi Rastogi, Jeff Thomas, and Nachiappan Nagappan. 2022. *[On Quantifying the Benefits of Dead Code Removal](https://hal.archives-ouvertes.fr/hal-03704335)*. Extended abstract. In 38th IEEE International Conference on Software Maintenance and Evolution (ICSME 2022).
