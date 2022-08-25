@@ -72,3 +72,9 @@
 * [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner)
 * [https://www.scopus.com/](https://www.scopus.com/)
 * [ISBN to BibTeX converter](https://www.bibtex.com/c/isbn-to-bibtex-converter/)
+
+## Selling your work
+
+* Free images: [https://unsplash.com/](https://unsplash.com/)
+* Free images: [https://pixabay.com/](https://pixabay.com/)
+* Presentation templates: [https://www.canva.com/](https://www.canva.com/)
