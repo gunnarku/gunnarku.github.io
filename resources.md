@@ -55,6 +55,7 @@
 * [Christopher J Parnin](https://www.chrisparnin.me/)
 * [Dan Luu](https://danluu.com/)
 * [Diomidis Spinellis](https://www.spinellis.gr/index.html.var)
+* [Gerard J. Holzmann](https://spinroot.com/gerard/). One of the few researchers whose [papers](https://spinroot.com/gerard/pubs.html) indicate that he has actually worked on real-world software. Just read everything he has published.
 * [Jaideep Ganguly](https://jganguly.github.io/)
 * [Lorin Hochstein](http://lorinhochstein.org/)
 * [Massimiliano Di Penta](https://mdipenta.github.io/)
