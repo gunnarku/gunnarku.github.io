@@ -5,6 +5,7 @@
 * "[Guide to Advanced Empirical Software Engineering](https://www.amazon.com/Guide-Advanced-Empirical-Software-Engineering/dp/184800043X)" by Forrest Shull, Janice Singer, and Dag I. K. Sjøberg.
 * "[How To Write A Better Thesis](https://www.amazon.com/Write-Better-Thesis-David-Evans/dp/3319042858/)" by David Evans, [Justin Zobel](https://www.mup.com.au/authors/justin-zobel), and Paul Gruba.
 * "[Writing for Computer Science](https://www.amazon.com/Writing-Computer-Science-Justin-Zobel/dp/144716640X/)" by [Justin Zobel](https://www.mup.com.au/authors/justin-zobel).
+* "[Contemporary Empirical Methods in Software Engineering](https://www.amazon.com/gp/product/3030324885/)" by [Michael Felderer](http://mfelderer.at/) and [Guilherme Horta Travassos](https://www.cos.ufrj.br/~ght/).
 
 ## How to do research?
 
@@ -12,6 +13,7 @@
 * "[How to do good research](https://people.csail.mit.edu/fredo/DoGoodResearch.pdf)" by [Frédo Durand](https://people.csail.mit.edu/fredo/student.html).
 * "[Writing Research Papers](https://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf)" by [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/). Look at "[Advice for Graduate Students](https://www.dgp.toronto.edu/~hertzman/advice/)" and "[Graduate Skills Seminars, 2010-2011](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/)" as well.
 * "[How to do research](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)" by [William T. Freeman](https://billf.mit.edu/).
+* [Researcher guidelines for Linux](https://www.kernel.org/doc/html/latest/process/researcher-guidelines.html)
 
 ## Writing
 
@@ -22,6 +24,10 @@
 * "[Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)".
 * [APA Style Blog](https://apastyle.apa.org/blog).
 * "[Writing Tips for IEEE Software](https://www.computer.org/csdl/magazine/so/write-for-us/14426)" by IEEE.
+
+## Talking
+
+* [Oral Presentation Advice](https://pages.cs.wisc.edu/~markhill/conference-talk.html)
 
 ## How to review papers?
 
@@ -42,6 +48,7 @@
 ## People who write interesting stuff about research and real life
 
 * [Andreas Zeller](https://andreas-zeller.info/)
+* [Arie van Deursen](https://avandeursen.com/)
 * [Austin Z. Henley](https://austinhenley.com/)
 * [Ayushi Rastogi](https://ayushirastogi.github.io/)
 * [Christian Bird](https://www.microsoft.com/en-us/research/people/cbird/)
@@ -54,6 +61,11 @@
 * [Nachiappan (Nachi) Nagappan](https://nachinagappan.github.io/)
 * [Thomas Zimmermann](https://thomas-zimmermann.com/)
 
+## Journals
+
+* [Empirical Software Engineering](https://www.springer.com/journal/10664)
+* [ournal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
+
 ## Random useful stuff
 
 * "[Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)".
@@ -62,6 +74,7 @@
 * "[A Reading List for PhD Students (and their Supervisors)](https://www2.dmst.aueb.gr/dds/res/phd/bib.htm)"
 * "[Open Science Policies](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies)" by [Daniel Graziotin](https://ineed.coffee/).
 * "The Ph.D. Grind. A Ph.D. Student Memoir" by Philip J. Guo. See if you can find a PDF copy somewhere. [All the existing links are dead](https://news.ycombinator.com/item?id=17494273).
+* [Where to publish?](https://giasuddin.ca/publications/)
 
 ## Random tools
 
