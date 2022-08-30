@@ -37,6 +37,7 @@
 ## How to write rebuttals?
 
 * "[Writing an effective response to a manuscript review](https://www.journals.uchicago.edu/doi/full/10.1086/688886)".
+* It's just going through the motions ... "[The Toxic Culture of Rejection in Computer Science](https://sigbed.org/2022/08/22/the-toxic-culture-of-rejection-in-computer-science/)" by [Edward Lee](https://ptolemy.berkeley.edu/~eal/index.html).
 
 ## Mathematical statistics
 
