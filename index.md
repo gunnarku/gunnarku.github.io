@@ -7,7 +7,8 @@ of my career. My favorite shell is a debugger prompt.
 
 Microsoft taught me how to be an operating systems engineer who knows
 a thing or two about systems performance and security.
-Facebook enabled me to refine those skills in a different context.
+Meta (company formely known as Facebook) enabled me to refine those
+skills in a different context.
 
 A public description of my career evolution is on my
 [LinkedIn page](https://www.linkedin.com/in/gunnarku/).
