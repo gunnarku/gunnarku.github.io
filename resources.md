@@ -66,7 +66,7 @@
 ## Journals
 
 * [Empirical Software Engineering](https://www.springer.com/journal/10664)
-* [ournal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
+* [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
 
 ## Random useful stuff
 
