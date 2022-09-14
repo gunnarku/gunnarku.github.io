@@ -39,6 +39,10 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - Gunnar Kudrjavets, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[The Unexplored Treasure Trove of Phabricator Code Reviews](http://arxiv.org/abs/2203.07473)*. In Proceedings of MSR '22: Proceedings of the 19th International Conference on Mining Software Repositories (MSR 2022). ACM, New York, NY, USA.
 - Gunnar Kudrjavets, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[The Unexplored Terrain of Compiler Warnings](https://arxiv.org/abs/2201.10599)*. In Proceedings of The 44th International Conference on Software Engineering (ICSE 2022). ACM, New York, NY, USA.
 
+### Recent rants
+
+- *[Code Review Velocity — The Need for Speed](https://medium.com/@gunnarku/205bd10dd787)*
+
 ### Academic activity
 
 - Member of [Shadow PC (program committee)](https://conf.researchr.org/track/msr-2022/msr-2022-shadow-pc) for 2022 Mining Software Repositories Conference.
