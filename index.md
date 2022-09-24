@@ -17,6 +17,10 @@ A public description of my career evolution is on my
 My academic ties are associated with the [University of Groningen](https://www.cs.rug.nl/search/) (Netherlands),
 but physically I still live in the Seattle area, Washington, USA.
 
+***Please help software engineers and [take a survey](https://rug.eu.qualtrics.com/jfe/form/SV_cO00EOXnl1urD3U)
+about the attitudes, beliefs, convictions, and experiences related
+to the code review process and code velocity! For #Science ;-)***
+
 ## Research
 My research projects focus on empirical challenges coming from
 the existing large-scale software projects in industry.
