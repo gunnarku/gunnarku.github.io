@@ -24,6 +24,7 @@
 * "[Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)".
 * [APA Style Blog](https://apastyle.apa.org/blog).
 * "[Writing Tips for IEEE Software](https://www.computer.org/csdl/magazine/so/write-for-us/14426)" by IEEE.
+* "[Mathematical Writing](https://www.amazon.com/Mathematical-Writing-Association-America-Notes/dp/088385063X)" by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts. The PDF version is [here](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf). All the lectures are also [on YouTube](https://www.youtube.com/playlist?list=PLOdeqCXq1tXihn5KmyB2YTOqgxaUkcNYG).
 
 ## Talking
 
