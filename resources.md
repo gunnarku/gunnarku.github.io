@@ -67,6 +67,7 @@
 ## Journals
 
 * [Empirical Software Engineering](https://www.springer.com/journal/10664)
+* [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 * [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
 
 ## Random useful stuff

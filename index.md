@@ -6,9 +6,9 @@ optimize low-level code (currently defined as `C` or `C++`) for most
 of my career. My favorite shell is a debugger prompt.
 My favorite theater of operations is the unpleasantness of reality.
 
-Microsoft taught me how to be an operating systems engineer who knows
+[Microsoft](https://www.microsoft.com/en-us/) taught me how to be an operating systems engineer who knows
 a thing or two about systems performance and security.
-Meta (company formely known as Facebook) enabled me to refine those
+[Meta](https://www.meta.com/) (company formely known as Facebook) enabled me to refine those
 skills in a different context.
 
 A public description of my career evolution is on my
@@ -51,6 +51,6 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 
 - Member of [Shadow PC (program committee)](https://conf.researchr.org/track/msr-2022/msr-2022-shadow-pc) for 2022 Mining Software Repositories Conference.
 - Member of PC for [ICSME 2022 Industry Track](https://cyprusconferences.org/icsme2022/call-for-industry-track/).
-- Member of PC for [ICSME 2022 Joint Artifact Evaluation Track and ROSE Festival Track](https://cyprusconferences.org/icsme2022/call-for-joint-artifact-evaluation-track-and-rose-festival-track/)
+- Member of PC for [ICSME 2022 Joint Artifact Evaluation Track and ROSE Festival Track](https://cyprusconferences.org/icsme2022/call-for-joint-artifact-evaluation-track-and-rose-festival-track/).
 
 **Keywords:** Empirical Software Engineering; Assertions; Mining Software Repositories; Systems Programming
