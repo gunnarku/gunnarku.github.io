@@ -25,6 +25,7 @@
 * [APA Style Blog](https://apastyle.apa.org/blog).
 * "[Writing Tips for IEEE Software](https://www.computer.org/csdl/magazine/so/write-for-us/14426)" by IEEE.
 * "[Mathematical Writing](https://www.amazon.com/Mathematical-Writing-Association-America-Notes/dp/088385063X)" by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts. The PDF version is [here](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf). All the lectures are also [on YouTube](https://www.youtube.com/playlist?list=PLOdeqCXq1tXihn5KmyB2YTOqgxaUkcNYG).
+* "[How (and How Not) to Write a Good Systems Paper](https://www.usenix.org/legacy/events/samples/submit/advice.html)" by Roy Levin and David D. Redell.
 
 ## Talking
 
@@ -95,3 +96,24 @@
 * Free images: [https://unsplash.com/](https://unsplash.com/)
 * Free images: [https://pixabay.com/](https://pixabay.com/)
 * Presentation templates: [https://www.canva.com/](https://www.canva.com/)
+* "[Design 101 lecture](https://www.youtube.com/watch?v=okZeimABw7w)" by Michele Lanza.
+
+## Dealing with the madness of survey analysis
+
+* "[Questionnaires and Surveys: Analyses with R](https://ladal.edu.au/surveys.html)" by Martin Schweinberger.
+* "[Survey Data Analysis with R](https://stats.oarc.ucla.edu/r/seminars/survey-data-analysis-with-r/)"
+* "[Using R to Analyze & Evaluate Survey Data](https://datascienceplus.com/using-r-to-analyze-evaluate-survey-data-part-1/)" by Demetrius K. Green.
+* "[Survey analysis](https://epirhandbook.com/en/survey-analysis.html)" from [The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html).
+* "[On Likert Scales In R](https://jakec007.github.io/2021-06-23-R-likert/)" by Jake Chanenson.
+* "[Do not use averages with Likert scale data](https://bookdown.org/Rmadillo/likert/)" by Dwight Barry.
+* "[Data Vis for Likert Questions](https://lmudge13.github.io/sample_code/likert_graphs.html)" by Laura Mudge.
+* "[Using likert on summary results](https://rpubs.com/m_dev/likert_summary)" by M. Devlin.
+* "[Qualitative Analysis](https://courses.lumenlearning.com/suny-hccc-research-methods/chapter/chapter-13-qualitative-analysis/)".
+
+## Random articles about R
+
+* "[R for Data Science](https://r4ds.had.co.nz/index.html)" by Hadley Wickham and Garrett Grolemund.
+* "[Wilcoxon test in R](https://statsandr.com/blog/wilcoxon-test-in-r-how-to-compare-2-groups-under-the-non-normality-assumption/)" by Antoine Soetewey.
+* "[Chi-square test of independence in R](https://statsandr.com/blog/chi-square-test-of-independence-in-r/)" by Antoine Soetewey.
+* "[Data Exploration: The Titanic](https://bio304-class.github.io/bio304-fall2017/data-story-titanic.html)"
+* "[How to Perform Correlation Analysis in Time Series data using R?](https://www.lobdata.com.br/2020/09/15/how-to-perform-correlation-analysis-in-time-series-data-using-r/)" by Luciano Oliveira Batista.
