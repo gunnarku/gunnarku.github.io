@@ -31,10 +31,11 @@
 
 * [Oral Presentation Advice](https://pages.cs.wisc.edu/~markhill/conference-talk.html)
 
-## How to review papers?
+## Reviewing papers
 
 * "[Hints for Reviewing Empirical Work in Software Engineering](https://dl.acm.org/doi/10.1023/A%3A1009844119158)" by Walter F. Tichy. Direct [PDF](https://selab.netlab.uky.edu/homepage/papers/tichy-overview.pdf).
 * "[Reviewing as an Essential Component of a Researcher’s Life](https://www.dropbox.com/s/cst1m0t7e48chz0/Reviewing.pdf?dl=0#)" by [Massimiliano Di Penta](https://mdipenta.github.io/).
+* "[Have You Seen This Review?](https://profriehle.com/2022/11/12/have-you-seen-this-review/)" by [Dirk Riehle](https://profriehle.com/).
 
 ## How to write rebuttals?
 
@@ -109,6 +110,7 @@
 * "[Data Vis for Likert Questions](https://lmudge13.github.io/sample_code/likert_graphs.html)" by Laura Mudge.
 * "[Using likert on summary results](https://rpubs.com/m_dev/likert_summary)" by M. Devlin.
 * "[Qualitative Analysis](https://courses.lumenlearning.com/suny-hccc-research-methods/chapter/chapter-13-qualitative-analysis/)".
+* "[Worse Than Spam: Issues In Sampling Software Developers](https://dl.acm.org/doi/10.1145/2961111.2962628)" by Sebastian Baltes and Stephan Diehl.
 
 ## Random articles about R
 
