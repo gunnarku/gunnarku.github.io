@@ -14,6 +14,7 @@
 * "[Writing Research Papers](https://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf)" by [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/). Look at "[Advice for Graduate Students](https://www.dgp.toronto.edu/~hertzman/advice/)" and "[Graduate Skills Seminars, 2010-2011](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/)" as well.
 * "[How to do research](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)" by [William T. Freeman](https://billf.mit.edu/).
 * [Researcher guidelines for Linux](https://www.kernel.org/doc/html/latest/process/researcher-guidelines.html)
+* "[Writing a scientific article: A step-by-step guide for beginners](https://www.sciencedirect.com/science/article/pii/S1878764915001606)"
 
 ## Writing
 
@@ -48,6 +49,7 @@
 * "[Things I Have Learned (So Far)](https://doi.apa.org/doiLanding?doi=10.1037%2F0003-066X.45.12.1304)" by Jacob Cohen. Direct [PDF](https://tech.me.holycross.edu/files/2015/03/Cohen_1990.pdf).
 * "[Statistical significance: p value, 0.05 threshold, and applications to radiomics—reasons for a conservative approach](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-0145-y)" by Giovanni Di Leo and Francesco Sardanelli.
 * "[Statistics Done Wrong. The woefully complete guide](https://www.statisticsdonewrong.com/)" by [Alex Reinhart](https://www.refsmmat.com/).
+* "[P – Value, a True Test of Statistical Significance? A Cautionary Note](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111019/)" by Tukur Dahiru.
 
 ## People who write interesting stuff about research and real life
 
@@ -114,6 +116,7 @@
 
 ## Random articles about R
 
+* "[Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html)" by Salvatore S. Mangiafico.
 * "[R for Data Science](https://r4ds.had.co.nz/index.html)" by Hadley Wickham and Garrett Grolemund.
 * "[Wilcoxon test in R](https://statsandr.com/blog/wilcoxon-test-in-r-how-to-compare-2-groups-under-the-non-normality-assumption/)" by Antoine Soetewey.
 * "[Chi-square test of independence in R](https://statsandr.com/blog/chi-square-test-of-independence-in-r/)" by Antoine Soetewey.
