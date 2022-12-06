@@ -48,6 +48,6 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - Member of [Shadow PC (program committee)](https://conf.researchr.org/track/msr-2022/msr-2022-shadow-pc) for 2022 Mining Software Repositories Conference.
 - Member of PC for [ICSME 2022 Industry Track](https://cyprusconferences.org/icsme2022/call-for-industry-track/).
 - Member of PC for [ICSME 2022 Joint Artifact Evaluation Track and ROSE Festival Track](https://cyprusconferences.org/icsme2022/call-for-joint-artifact-evaluation-track-and-rose-festival-track/).
-- Member of PC for [Data Showcase Committee within the Data and Tool Showcase Track-track](https://conf.researchr.org/track/msr-2023/msr-2023-data-showcase).
+- Member of PC for [MSR 2023 Data Showcase Committee within the Data and Tool Showcase Track](https://conf.researchr.org/track/msr-2023/msr-2023-data-showcase).
 
 **Keywords:** Empirical Software Engineering; Assertions; Mining Software Repositories; Systems Programming

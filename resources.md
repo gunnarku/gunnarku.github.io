@@ -50,6 +50,8 @@
 * "[Statistical significance: p value, 0.05 threshold, and applications to radiomics—reasons for a conservative approach](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-0145-y)" by Giovanni Di Leo and Francesco Sardanelli.
 * "[Statistics Done Wrong. The woefully complete guide](https://www.statisticsdonewrong.com/)" by [Alex Reinhart](https://www.refsmmat.com/).
 * "[P – Value, a True Test of Statistical Significance? A Cautionary Note](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111019/)" by Tukur Dahiru.
+* "[On reporting and interpreting statistical significance and p values in medical research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8005799/)" by Herman Aguinis, Matt Vassar, and Cole Wayant.
+* "[p < 0.05, < 0.01, < 0.001, < 0.0001, < 0.00001, < 0.000001, or < 0.0000001 …](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191982/)" by Weimo Zhu.
 
 ## People who write interesting stuff about research and real life
 
