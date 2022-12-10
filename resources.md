@@ -43,15 +43,17 @@
 * "[Writing an effective response to a manuscript review](https://www.journals.uchicago.edu/doi/full/10.1086/688886)".
 * It's just going through the motions ... "[The Toxic Culture of Rejection in Computer Science](https://sigbed.org/2022/08/22/the-toxic-culture-of-rejection-in-computer-science/)" by [Edward Lee](https://ptolemy.berkeley.edu/~eal/index.html).
 
-## Mathematical statistics
+## Mathematical statistics (the madness and controversy of p-values)
 
 * "[The ASA Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)" by Ronald L. Wasserstein and Nicole A. Lazar.
+* "[Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9)" by Valentin Amrhein, Sander Greenland, and Blake McShane.
 * "[Things I Have Learned (So Far)](https://doi.apa.org/doiLanding?doi=10.1037%2F0003-066X.45.12.1304)" by Jacob Cohen. Direct [PDF](https://tech.me.holycross.edu/files/2015/03/Cohen_1990.pdf).
 * "[Statistical significance: p value, 0.05 threshold, and applications to radiomics—reasons for a conservative approach](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-0145-y)" by Giovanni Di Leo and Francesco Sardanelli.
 * "[Statistics Done Wrong. The woefully complete guide](https://www.statisticsdonewrong.com/)" by [Alex Reinhart](https://www.refsmmat.com/).
 * "[P – Value, a True Test of Statistical Significance? A Cautionary Note](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111019/)" by Tukur Dahiru.
 * "[On reporting and interpreting statistical significance and p values in medical research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8005799/)" by Herman Aguinis, Matt Vassar, and Cole Wayant.
 * "[p < 0.05, < 0.01, < 0.001, < 0.0001, < 0.00001, < 0.000001, or < 0.0000001 …](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191982/)" by Weimo Zhu.
+* "[Understanding results: P-values, confidence intervals, and number need to treat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263226/)" by Lawrence Flechner and Timothy Y. Tseng.
 
 ## People who write interesting stuff about research and real life
 
@@ -63,6 +65,7 @@
 * [Christopher J Parnin](https://www.chrisparnin.me/)
 * [Dan Luu](https://danluu.com/)
 * [Diomidis Spinellis](https://www.spinellis.gr/index.html.var)
+* [Eric Lippert](https://ericlippert.com/)
 * [Gerard J. Holzmann](https://spinroot.com/gerard/). One of the few researchers whose [papers](https://spinroot.com/gerard/pubs.html) indicate that he has actually worked on real-world software. Just read everything he has published.
 * [Jaideep Ganguly](https://jganguly.github.io/)
 * [Lorin Hochstein](http://lorinhochstein.org/)
@@ -124,3 +127,8 @@
 * "[Chi-square test of independence in R](https://statsandr.com/blog/chi-square-test-of-independence-in-r/)" by Antoine Soetewey.
 * "[Data Exploration: The Titanic](https://bio304-class.github.io/bio304-fall2017/data-story-titanic.html)"
 * "[How to Perform Correlation Analysis in Time Series data using R?](https://www.lobdata.com.br/2020/09/15/how-to-perform-correlation-analysis-in-time-series-data-using-r/)" by Luciano Oliveira Batista.
+* "[Testing for time trend](http://ritsokiguess.site/docs/2017/12/16/testing-for-time-trend/)" by Ken.
+* "[R Cookbook, 2nd Edition](https://rc2e.com/index.html)" by James (JD) Long and Paul Teetor.
+
+
+
