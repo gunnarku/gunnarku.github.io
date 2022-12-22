@@ -129,6 +129,3 @@
 * "[How to Perform Correlation Analysis in Time Series data using R?](https://www.lobdata.com.br/2020/09/15/how-to-perform-correlation-analysis-in-time-series-data-using-r/)" by Luciano Oliveira Batista.
 * "[Testing for time trend](http://ritsokiguess.site/docs/2017/12/16/testing-for-time-trend/)" by Ken.
 * "[R Cookbook, 2nd Edition](https://rc2e.com/index.html)" by James (JD) Long and Paul Teetor.
-
-
-
