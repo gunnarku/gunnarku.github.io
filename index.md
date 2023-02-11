@@ -27,8 +27,9 @@ Any study I am involved with must be eventually useful for software engineers.
 
 [Resources](resources.md) I find helpful in pretending to be a semi-functioning Ph.D. candidate.
 
-### Recent papers
+### Recent papers and talks
 
+- **To be presented**: Gunnar Kudrjavets and Aditya Kumar. 2023. *[Optimizing the Compiler's Memory Usage? Let Us Implement a Basic Profiler First!](preprints/llvm-cgo-2023.pdf)*. At LLVM CGO 2023 ([Seventh LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2023-02-25/)). February 25, 2023. Montreal, Canada.
 - **To appear**: Gunnar Kudrjavets, Ayushi Rastogi, Jeff Thomas,and Nachiappan Nagappan. 2023. *[Who Ate My Memory? Towards Attribution in Memory Management](https://arxiv.org/abs/2212.11866)*. In Proceedings of The 45th International Conference on Software Engineering (ICSE 2023) [SEIP track](https://conf.researchr.org/track/icse-2023/icse-2023-SEIP).
 - **Best Disruptive Paper Award:** Gunnar Kudrjavets, Jeff Thomas, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[When malloc() Never Returns NULL -- Reliability as an Illusion](https://arxiv.org/abs/2208.08484)*. In 33rd IEEE International Symposium on Software Reliability Engineering ([ISSRE 2022](https://issre2022.github.io/)).
 - Gunnar Kudrjavets, Jeff Thomas, Aditya Kumar, Nachiappan Nagappan, and Ayushi Rastogi. 2022. *[There Ain’t No Such Thing as a
