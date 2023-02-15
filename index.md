@@ -53,5 +53,6 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - Member of PC for [ICSME 2022 Industry Track](https://cyprusconferences.org/icsme2022/call-for-industry-track/).
 - Member of PC for [ICSME 2022 Joint Artifact Evaluation Track and ROSE Festival Track](https://cyprusconferences.org/icsme2022/call-for-joint-artifact-evaluation-track-and-rose-festival-track/).
 - Member of PC for [MSR 2023 Data Showcase Committee within the Data and Tool Showcase Track](https://conf.researchr.org/track/msr-2023/msr-2023-data-showcase).
+- Member of PC for [ICSME 2023 Industry Track](https://conf.researchr.org/track/icsme-2023/icsme-2023-industry-track).
 
-**Keywords:** Empirical Software Engineering; Assertions; Mining Software Repositories; Systems Programming
+**Keywords:** Empirical Software Engineering; Assertions; Memory Management; Mining Software Repositories; Systems Programming
