@@ -27,6 +27,7 @@
 * "[Writing Tips for IEEE Software](https://www.computer.org/csdl/magazine/so/write-for-us/14426)" by IEEE.
 * "[Mathematical Writing](https://www.amazon.com/Mathematical-Writing-Association-America-Notes/dp/088385063X)" by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts. The PDF version is [here](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf). All the lectures are also [on YouTube](https://www.youtube.com/playlist?list=PLOdeqCXq1tXihn5KmyB2YTOqgxaUkcNYG).
 * "[How (and How Not) to Write a Good Systems Paper](https://www.usenix.org/legacy/events/samples/submit/advice.html)" by Roy Levin and David D. Redell.
+* "[How to Get a Paper Accepted at OOPSLA](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html)" by Kent Beck.
 
 ## Talking
 
@@ -54,6 +55,7 @@
 * "[On reporting and interpreting statistical significance and p values in medical research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8005799/)" by Herman Aguinis, Matt Vassar, and Cole Wayant.
 * "[p < 0.05, < 0.01, < 0.001, < 0.0001, < 0.00001, < 0.000001, or < 0.0000001 …](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191982/)" by Weimo Zhu.
 * "[Understanding results: P-values, confidence intervals, and number need to treat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263226/)" by Lawrence Flechner and Timothy Y. Tseng.
+* "[How to control confounding effects by statistical analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017459/) by Mohamad Amin Pourhoseingholi, Ahmad Reza Baghestani, and Mohsen Vahedi.
 
 ## People who write interesting stuff about research and real life
 
@@ -105,6 +107,7 @@
 * Free images: [https://pixabay.com/](https://pixabay.com/)
 * Presentation templates: [https://www.canva.com/](https://www.canva.com/)
 * "[Design 101 lecture](https://www.youtube.com/watch?v=okZeimABw7w)" by Michele Lanza.
+* "[How to Get Your Research Adopted](https://slideslive.com/38986031/how-to-get-your-research-adopted)" by [Emery D. Berger](https://emeryberger.com/).
 
 ## Dealing with the madness of survey analysis
 
