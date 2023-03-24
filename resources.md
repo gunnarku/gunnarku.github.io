@@ -9,6 +9,7 @@
 
 ## How to do research?
 
+* "[PhD Completion Milestones](https://collaboration.csc.ncsu.edu/laurie/PhD.html)" by [Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/).
 * "[How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)" by [Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/).
 * "[How to do good research](https://people.csail.mit.edu/fredo/DoGoodResearch.pdf)" by [Frédo Durand](https://people.csail.mit.edu/fredo/student.html).
 * "[Writing Research Papers](https://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf)" by [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/). Look at "[Advice for Graduate Students](https://www.dgp.toronto.edu/~hertzman/advice/)" and "[Graduate Skills Seminars, 2010-2011](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/)" as well.
@@ -18,6 +19,8 @@
 
 ## Writing
 
+### Articles
+
 * "[Writing Well](https://www.julian.com/guide/write/first-draft)" by [Julian Shapiro](https://www.julian.com/).
 * "[Writing a book: is it worth it?](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)" by [Martin Kleppmann](https://martin.kleppmann.com/).
 * "[How to write a scientific abstract in six easy steps](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/)".
@@ -26,8 +29,15 @@
 * [APA Style Blog](https://apastyle.apa.org/blog).
 * "[Writing Tips for IEEE Software](https://www.computer.org/csdl/magazine/so/write-for-us/14426)" by IEEE.
 * "[Mathematical Writing](https://www.amazon.com/Mathematical-Writing-Association-America-Notes/dp/088385063X)" by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts. The PDF version is [here](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf). All the lectures are also [on YouTube](https://www.youtube.com/playlist?list=PLOdeqCXq1tXihn5KmyB2YTOqgxaUkcNYG).
-* "[How (and How Not) to Write a Good Systems Paper](https://www.usenix.org/legacy/events/samples/submit/advice.html)" by Roy Levin and David D. Redell.
+* "[How (and How Not) to Write a Good Systems Paper](https://www.usenix.org/legacy/events/samples/submit/advice.html)" by Roy Levin and David D. Redell. A second copy is [here](https://www.usenix.org/conference/osdi12/guidelines-authors).
 * "[How to Get a Paper Accepted at OOPSLA](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html)" by Kent Beck.
+* "[The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf)" by George D. Gopen and Judith A. Swan, In American Scientist, Vol. 78, No. 6 (Nov–Dec, 1990), pp. 550–558.
+
+### Books
+
+* "[The Elements of Style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)" by  William Strunk Jr. and E. B. White.
+* Either "[The Dictionary of Concise Writing: 10,000 Alternatives to Wordy Phrases](https://www.amazon.com/Dictionary-Concise-Writing-Alternatives-Phrases/dp/0966517660)" or "[To the Point: A Dictionary of Concise Writing](https://www.amazon.com/Point-Dictionary-Concise-Writing/dp/0393347176)" by Robert Hartwell Fiske.
+* "[Bugs in Writing: A Guide to Debugging Your Prose](https://www.amazon.com/BUGS-Writing-Revised-Guide-Debugging/dp/020137921X)" by Lyn Dupre.
 
 ## Talking
 
