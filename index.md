@@ -29,6 +29,8 @@ Any study I am involved with must be eventually useful for software engineers.
 
 ### Recent papers and talks
 
+- Gunnar Kudrjavets. 2023. "*Reflections on a career at Microsoft between 2000 and
+2015*." Invited talk at Microsoft Development Center Estonia. April 4, 2023, Tallinn, Estonia. Virtual.
 - **To appear**: Gunnar Kudrjavets, Aditya Kumar, and Ayushi Rastogi. 2023. *[What Warnings Do Engineers Really Fix? The Compiler That Cried Wolf](preprints/What_Warnings_Do_Engineers_Really_Fix.pdf)*. In Proceedings of MSR '23: Proceedings of the 20th International Conference on Mining Software Repositories (MSR 2023). [Industry Track](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track). May 15-16, 2023, Melbourne, Australia.
 - **To appear**: Gunnar Kudrjavets, Nachiappan Nagappan, and Ayushi Rastogi. 2023. *[Are We Speeding Up or Slowing Down? On Temporal Aspects of Code Velocity](https://arxiv.org/abs/2303.04293)*. In Proceedings of MSR '23: Proceedings of the 20th International Conference on Mining Software Repositories ([MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers)). May 15-16, 2023, Melbourne, Australia.
 - Gunnar Kudrjavets and Aditya Kumar. 2023. *[Optimizing the Compiler's Memory Usage? Let Us Implement a Basic Profiler First!](preprints/llvm-cgo-2023.pdf)*. The slides are [here](preprints/LLVM-CGO-2023-slides.pdf). At LLVM CGO 2023 ([Seventh LLVM Performance Workshop at CGO](https://llvm.org/devmtg/2023-02-25/)). February 25, 2023. Montreal, Canada.
