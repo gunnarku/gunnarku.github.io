@@ -57,6 +57,9 @@
 ## Mathematical statistics (the madness and controversy of p-values)
 
 * "[The ASA Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)" by Ronald L. Wasserstein and Nicole A. Lazar.
+* "[Understanding p-values and the Controversy Surrounding Them](https://www.ics.uci.edu/~jutts/UnderstandingP-Values)" by [Jessica Utts](https://www.ics.uci.edu/~jutts/).
+* "[P values and statistical practice](https://journals.lww.com/epidem/Fulltext/2013/01000/Commentary__P__Values_and_Statistical_Practice.10.aspx)" by Andrew Gelman.
+* "[Odds Are, It’s Wrong](https://www.sciencenews.org/article/odds-are-its-wrong)" by Tom Siegfried.
 * "[Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9)" by Valentin Amrhein, Sander Greenland, and Blake McShane.
 * "[Things I Have Learned (So Far)](https://doi.apa.org/doiLanding?doi=10.1037%2F0003-066X.45.12.1304)" by Jacob Cohen. Direct [PDF](https://tech.me.holycross.edu/files/2015/03/Cohen_1990.pdf).
 * "[Statistical significance: p value, 0.05 threshold, and applications to radiomics—reasons for a conservative approach](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-020-0145-y)" by Giovanni Di Leo and Francesco Sardanelli.
