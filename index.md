@@ -1,5 +1,8 @@
 # Gunnar Kudrjavets
 
+My thesis defense date will be either in **September or October of 2023**.
+Academia does not operate under the "Move fast and break things" culture ;-)
+
 ## The Real World
 I have been a software engineer who has liked to design, write, and
 optimize low-level code (currently defined as `C` or `C++`) for most
