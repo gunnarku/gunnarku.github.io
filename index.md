@@ -1,6 +1,7 @@
 # Gunnar Kudrjavets
 
-My thesis defense date will be either in **September or October of 2023**.
+My thesis defense date will be **on a Monday in October of 2023** at Groningen, Netherlands.
+Current candidate dates are 10/09 and 10/16.
 Academia does not operate under the "Move fast and break things" culture ;-)
 
 ## The Real World
