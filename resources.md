@@ -68,7 +68,8 @@
 * "[On reporting and interpreting statistical significance and p values in medical research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8005799/)" by Herman Aguinis, Matt Vassar, and Cole Wayant.
 * "[p < 0.05, < 0.01, < 0.001, < 0.0001, < 0.00001, < 0.000001, or < 0.0000001 …](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191982/)" by Weimo Zhu.
 * "[Understanding results: P-values, confidence intervals, and number need to treat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263226/)" by Lawrence Flechner and Timothy Y. Tseng.
-* "[How to control confounding effects by statistical analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017459/) by Mohamad Amin Pourhoseingholi, Ahmad Reza Baghestani, and Mohsen Vahedi.
+* "[How to control confounding effects by statistical analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017459/)" by Mohamad Amin Pourhoseingholi, Ahmad Reza Baghestani, and Mohsen Vahedi.
+* "[Good explanation about Mann-Whitney U Test](https://statistics.laerd.com/spss-tutorials/mann-whitney-u-test-using-spss-statistics.php)."
 
 ## People who write interesting stuff about research and real life
 
