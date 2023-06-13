@@ -1,7 +1,7 @@
 # Gunnar Kudrjavets
 
-My thesis defense date will be **on a Monday in October of 2023** at Groningen, Netherlands.
-Current candidate dates are 10/09 and 10/16.
+My *preliminary* thesis defense date is Tuesday, October 17, 2023, at 16:15 in Aula.
+The ceremony will take place in Groningen, Netherlands.
 Academia does not operate under the "Move fast and break things" culture ;-)
 
 ## The Real World
