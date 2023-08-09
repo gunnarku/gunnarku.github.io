@@ -25,7 +25,6 @@
 * "[Writing a book: is it worth it?](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)" by [Martin Kleppmann](https://martin.kleppmann.com/).
 * "[How to write a scientific abstract in six easy steps](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/)".
 * "[Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)" by [Jonathan Shewchuk](http://www.cs.cmu.edu/~jrs/).
-* "[Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)".
 * [APA Style Blog](https://apastyle.apa.org/blog).
 * "[Writing Tips for IEEE Software](https://www.computer.org/csdl/magazine/so/write-for-us/14426)" by IEEE.
 * "[Mathematical Writing](https://www.amazon.com/Mathematical-Writing-Association-America-Notes/dp/088385063X)" by Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts. The PDF version is [here](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf). All the lectures are also [on YouTube](https://www.youtube.com/playlist?list=PLOdeqCXq1tXihn5KmyB2YTOqgxaUkcNYG).
@@ -38,6 +37,11 @@
 * "[The Elements of Style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X)" by  William Strunk Jr. and E. B. White.
 * Either "[The Dictionary of Concise Writing: 10,000 Alternatives to Wordy Phrases](https://www.amazon.com/Dictionary-Concise-Writing-Alternatives-Phrases/dp/0966517660)" or "[To the Point: A Dictionary of Concise Writing](https://www.amazon.com/Point-Dictionary-Concise-Writing/dp/0393347176)" by Robert Hartwell Fiske.
 * "[Bugs in Writing: A Guide to Debugging Your Prose](https://www.amazon.com/BUGS-Writing-Revised-Guide-Debugging/dp/020137921X)" by Lyn Dupre.
+
+### LaTeX
+
+* "[Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)".
+* "[style-check for LaTex](https://github.com/nspring/style-check). [Good references](https://github.com/nspring/style-check#entertainment) for more concise writing.
 
 ## Talking
 
@@ -54,9 +58,21 @@
 * "[Writing an effective response to a manuscript review](https://www.journals.uchicago.edu/doi/full/10.1086/688886)".
 * It's just going through the motions ... "[The Toxic Culture of Rejection in Computer Science](https://sigbed.org/2022/08/22/the-toxic-culture-of-rejection-in-computer-science/)" by [Edward Lee](https://ptolemy.berkeley.edu/~eal/index.html).
 
-## Mathematical statistics (the madness and controversy of p-values)
+## Mathematical statistics
+
+### General
+
+* "[Handbook of Biological Statistics](http://www.biostathandbook.com/)" by John H. McDonald.
+https://www.youtube.com/@datatab/videos
+* "[DATAtab YouTube channel](https://www.youtube.com/@datatab/featured)"
+* "[StatQuest with Josh Starmer YouTube channel](https://www.youtube.com/c/joshstarmer)"
+
+### The madness and controversy of p-values
 
 * "[The ASA Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)" by Ronald L. Wasserstein and Nicole A. Lazar.
+* "[Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) by Ronald L. Wasserstein, Allen L. Schirm, and Nicole A. Lazar.
+* "[An investigation of the false discovery rate and the misinterpretation of p-values](https://royalsocietypublishing.org/doi/10.1098/rsos.140216#d3e1143)" by David Colquhoun.
+* "[Do multiple outcome measures require p-value adjustment?](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-2-8)" by Ronald J. Feise.
 * "[Understanding p-values and the Controversy Surrounding Them](https://www.ics.uci.edu/~jutts/UnderstandingP-Values)" by [Jessica Utts](https://www.ics.uci.edu/~jutts/).
 * "[P values and statistical practice](https://journals.lww.com/epidem/Fulltext/2013/01000/Commentary__P__Values_and_Statistical_Practice.10.aspx)" by Andrew Gelman.
 * "[Odds Are, It’s Wrong](https://www.sciencenews.org/article/odds-are-its-wrong)" by Tom Siegfried.
@@ -69,7 +85,15 @@
 * "[p < 0.05, < 0.01, < 0.001, < 0.0001, < 0.00001, < 0.000001, or < 0.0000001 …](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6191982/)" by Weimo Zhu.
 * "[Understanding results: P-values, confidence intervals, and number need to treat](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263226/)" by Lawrence Flechner and Timothy Y. Tseng.
 * "[How to control confounding effects by statistical analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017459/)" by Mohamad Amin Pourhoseingholi, Ahmad Reza Baghestani, and Mohsen Vahedi.
+* "[A practical guide to methods controlling false discoveries in computational biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1)" by Keegan Korthauer et al.
+* "[Using false discovery rates for multiple comparisons in ecology and evolution](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.2041-210X.2010.00061.x)" by Nathan Pike.
+
+### Mann-Whitney U test
+
 * "[Good explanation about Mann-Whitney U Test](https://statistics.laerd.com/spss-tutorials/mann-whitney-u-test-using-spss-statistics.php)."
+* "[Two-sample Mann–Whitney U Test](https://rcompanion.org/handbook/F_04.html)" by Salvatore S. Mangiafico.
+* "[Confidence intervals for an effect size measure based on the Mann-Whitney statistic. Part 1: general issues and tail-area-based methods](https://pubmed.ncbi.nlm.nih.gov/16252269/)" by Robert G. Newcombe.
+* "[Confidence Intervals of the Mann-Whitney Parameter that are Compatible with the Wilcoxon-Mann-Whitney Test](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6377068/)" by Michael P. Fay1 and Yaakov Malinovsky.
 
 ## People who write interesting stuff about research and real life
 
