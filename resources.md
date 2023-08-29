@@ -66,10 +66,13 @@
 https://www.youtube.com/@datatab/videos
 * "[DATAtab YouTube channel](https://www.youtube.com/@datatab/featured)"
 * "[StatQuest with Josh Starmer YouTube channel](https://www.youtube.com/c/joshstarmer)"
+* "[Biostatistics YouTube channel](https://www.youtube.com/@biostatisticsIBL)"
+* "[Biostatistics Book Series](https://github.com/FransRodenburg/Biostatistics-Book-Series)" by Frans Rodenburg.
 
 ### The madness and controversy of p-values
 
 * "[The ASA Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)" by Ronald L. Wasserstein and Nicole A. Lazar.
+* [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://www.tandfonline.com/toc/utas20/73/sup1). The American Statistician, Volume 73, Issue sup1 (2019).
 * "[Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) by Ronald L. Wasserstein, Allen L. Schirm, and Nicole A. Lazar.
 * "[An investigation of the false discovery rate and the misinterpretation of p-values](https://royalsocietypublishing.org/doi/10.1098/rsos.140216#d3e1143)" by David Colquhoun.
 * "[Do multiple outcome measures require p-value adjustment?](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-2-8)" by Ronald J. Feise.
