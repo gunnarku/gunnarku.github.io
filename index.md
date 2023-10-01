@@ -36,6 +36,7 @@ Any study I am involved with must be eventually useful for software engineers.
 
 ### Recent papers and talks
 
+- The thesis: "[The Need for Speed: Increasing the Code Review Velocity](https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity)"
 - Gunnar Kudrjavets. 2023. "*Reflections on a career at Microsoft between 2000 and
 2015*." Invited talk at Microsoft Development Center Estonia. April 4, 2023, Tallinn, Estonia. Virtual.
 - Gunnar Kudrjavets, Aditya Kumar, and Ayushi Rastogi. 2023. *[What Warnings Do Engineers Really Fix? The Compiler That Cried Wolf](preprints/What_Warnings_Do_Engineers_Really_Fix.pdf)*. In Proceedings of MSR '23: Proceedings of the 20th International Conference on Mining Software Repositories (MSR 2023). [Industry Track](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track). May 15-16, 2023, Melbourne, Australia.

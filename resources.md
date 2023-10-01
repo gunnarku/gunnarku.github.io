@@ -121,6 +121,7 @@ https://www.youtube.com/@datatab/videos
 * [Empirical Software Engineering](https://www.springer.com/journal/10664)
 * [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 * [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
+* [The long list of SE conferences and journals](https://twitter.com/aserebrenik/status/1684570243182792707). Direct link to [Google Sheets file](https://t.co/Zl4MJc3GPa).
 
 ## Random useful stuff
 
