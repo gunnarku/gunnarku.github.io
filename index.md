@@ -1,34 +1,25 @@
 # Gunnar Kudrjavets
 
-I completed my dissertation in March of 2023.
+I completed [my dissertation](https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity) in March of 2023.
 My formal thesis defense will take place on **Tuesday, October 17, 2023, at 16:15 in Aula**.
 The ceremony will take place in **Groningen, Netherlands**.
 
 Academia does not operate under the "Move fast and break things" culture ;-)
 
-
 ## The Real World
-I have been a software engineer who has liked to design, write, and
-optimize low-level code (currently defined as `C` or `C++`) for most
-of my career.
+I have been a software engineer who has liked to design, write, and optimize low-level code (currently defined as `C` or `C++`) for most of my career.
 My favorite shell is a debugger prompt.
 My favorite theater of operations is the unpleasantness of reality.
 
-[Microsoft](https://www.microsoft.com/en-us/) taught me how to be an
-operating systems engineer who knows a thing or two about systems
-performance and security.
-[Meta](https://www.meta.com/) (company formely known as Facebook) enabled
-me to refine those skills in a different context.
+[Microsoft](https://www.microsoft.com/en-us/) taught me how to be an operating systems engineer who knows a thing or two about systems performance and security.
+[Meta](https://www.meta.com/) (company formely known as Facebook) enabled me to refine those skills in a different context.
 
-A public description of my career evolution is on my
-[LinkedIn page](https://www.linkedin.com/in/gunnarku/).
+A public description of my career evolution is on my [LinkedIn page](https://www.linkedin.com/in/gunnarku/).
 
-My academic ties are associated with the [University of Groningen](https://www.cs.rug.nl/search/) (Netherlands),
-but physically I still live in the Seattle area, Washington, USA.
+My academic ties are associated with the [University of Groningen](https://www.cs.rug.nl/search/) (Netherlands), but physically I still live in the Seattle area, Washington, USA.
 
 ## Research
-My research projects focus on empirical challenges coming from
-the existing large-scale software projects in industry.
+My research projects focus on empirical challenges coming from the existing large-scale software projects in industry.
 The key qualifier for me is the practical application of results.
 Any study I am involved with must be eventually useful for software engineers.
 
@@ -36,7 +27,7 @@ Any study I am involved with must be eventually useful for software engineers.
 
 ### Recent papers and talks
 
-- The thesis: "[The Need for Speed: Increasing the Code Review Velocity](https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity)"
+- The thesis: *[The Need for Speed: Increasing the Code Review Velocity](https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity)*.
 - Gunnar Kudrjavets. 2023. "*Reflections on a career at Microsoft between 2000 and
 2015*." Invited talk at Microsoft Development Center Estonia. April 4, 2023, Tallinn, Estonia. Virtual.
 - Gunnar Kudrjavets, Aditya Kumar, and Ayushi Rastogi. 2023. *[What Warnings Do Engineers Really Fix? The Compiler That Cried Wolf](preprints/What_Warnings_Do_Engineers_Really_Fix.pdf)*. In Proceedings of MSR '23: Proceedings of the 20th International Conference on Mining Software Repositories (MSR 2023). [Industry Track](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track). May 15-16, 2023, Melbourne, Australia.
