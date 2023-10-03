@@ -27,6 +27,7 @@ Any study I am involved with must be eventually useful for software engineers.
 
 ### Recent papers and talks
 
+- **To be published:** Gunnar Kudrjavets and Ayushi Rastogi. *Does Code Review Speed Matter for Practitioners?* 2023. In [Empirical Software Engineering](https://www.springer.com/journal/10664/). Preprint will be available when all the legal issues will be handled.
 - The thesis: *[The Need for Speed: Increasing the Code Review Velocity](https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity)*.
 - Gunnar Kudrjavets. 2023. "*Reflections on a career at Microsoft between 2000 and
 2015*." Invited talk at Microsoft Development Center Estonia. April 4, 2023, Tallinn, Estonia. Virtual.
