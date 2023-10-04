@@ -16,7 +16,7 @@ My favorite theater of operations is the unpleasantness of reality.
 
 A public description of my career evolution is on my [LinkedIn page](https://www.linkedin.com/in/gunnarku/).
 
-My academic ties are associated with the [University of Groningen](https://www.cs.rug.nl/search/) (Netherlands), but physically I still live in the Seattle area, Washington, USA.
+My academic ties are associated with the [University of Groningen](https://search-rug.github.io/) (Netherlands), but physically I still live in the Seattle area, Washington, USA.
 
 ## Research
 My research projects focus on empirical challenges coming from the existing large-scale software projects in industry.
@@ -27,7 +27,7 @@ Any study I am involved with must be eventually useful for software engineers.
 
 ### Recent papers and talks
 
-- **To be published:** Gunnar Kudrjavets and Ayushi Rastogi. *Does Code Review Speed Matter for Practitioners?* 2023. In [Empirical Software Engineering](https://www.springer.com/journal/10664/). Preprint will be available when all the legal issues will be handled.
+- **To be published:** Gunnar Kudrjavets and Ayushi Rastogi. *Does Code Review Speed Matter for Practitioners?*. 2023. In [Empirical Software Engineering](https://www.springer.com/journal/10664/). Preprint will be available when all the legal issues will be handled.
 - The thesis: *[The Need for Speed: Increasing the Code Review Velocity](https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity)*.
 - Gunnar Kudrjavets. 2023. "*Reflections on a career at Microsoft between 2000 and
 2015*." Invited talk at Microsoft Development Center Estonia. April 4, 2023, Tallinn, Estonia. Virtual.
