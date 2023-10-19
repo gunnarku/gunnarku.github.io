@@ -1,11 +1,5 @@
 # Gunnar Kudrjavets
 
-I completed [my dissertation](https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity) in March of 2023.
-My formal thesis defense will take place on **Tuesday, October 17, 2023, at 16:15 in Aula**.
-The ceremony will take place in **Groningen, Netherlands**.
-
-Academia does not operate under the "Move fast and break things" culture ;-)
-
 ## The Real World
 I have been a software engineer who has liked to design, write, and optimize low-level code (currently defined as `C` or `C++`) for most of my career.
 My favorite shell is a debugger prompt.
@@ -23,7 +17,7 @@ My research projects focus on empirical challenges coming from the existing larg
 The key qualifier for me is the practical application of results.
 Any study I am involved with must be eventually useful for software engineers.
 
-[Resources](resources.md) I find helpful in pretending to be a semi-functioning Ph.D. candidate.
+[Resources](resources.md) I found helpful in pretending to be a semi-functioning Ph.D. candidate.
 
 ### Recent papers and talks
 
