@@ -114,6 +114,7 @@ https://www.youtube.com/@datatab/videos
 * [Lorin Hochstein](http://lorinhochstein.org/)
 * [Massimiliano Di Penta](https://mdipenta.github.io/)
 * [Nachiappan (Nachi) Nagappan](https://nachinagappan.github.io/)
+* [Terence Tao](https://terrytao.wordpress.com/)
 * [Thomas Zimmermann](https://thomas-zimmermann.com/)
 
 ## Journals
@@ -125,6 +126,7 @@ https://www.youtube.com/@datatab/videos
 
 ## Random useful stuff
 
+* [Latest Software Engineering papers from arXiv](https://arxiv.org/list/cs.SE/recent).
 * "[Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)".
 * "[PhD Completion Milestones](https://collaboration.csc.ncsu.edu/laurie/PhD.html)".
 * "[The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)". It's worth reading all the other content from [Matt Might](https://matt.might.net/) as well.
