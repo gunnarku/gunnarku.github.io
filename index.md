@@ -14,7 +14,8 @@ My academic ties are associated with the [University of Groningen](https://searc
 
 ## Research
 I defended my dissertation on October 17, 2023.
-My thesis supervisors were Dr. Ayushi Rastogi and Prof. Paris Avgeriou from the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence at the University of Groningen in Netherlands.
+My thesis supervisors were [Dr. Ayushi Rastogi](https://ayushirastogi.github.io/) and [Prof. Paris Avgeriou](https://www.cs.rug.nl/~paris/) from the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence at the University of Groningen in Netherlands.
+I was part of the [Software Engineering and Architecture research group](https://search-rug.github.io/).
 
 My research projects focus on empirical challenges coming from the existing large-scale software projects in industry.
 The key qualifier for me is the practical application of results.
