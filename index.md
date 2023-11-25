@@ -26,7 +26,7 @@ Any study I am involved with must be eventually useful for software engineers.
 ### Recent papers and talks
 
 - Marija Franka Žuljević, Antonija Mijatović, Stjepan Ljudevit Marušić, Gunnar Kudrjavets, Ivan Buljan, and Darko Hren. *[Mystical and Affective Aspects of Psychedelic Use in a Naturalistic Setting: A Linguistic Analysis of Online Experience Reports](https://doi.org/10.1080/02791072.2023.2274382)*. In Journal of Psychoactive Drugs. 2023.
-- Gunnar Kudrjavets and Ayushi Rastogi. *[Does Code Review Speed Matter for Practitioners?](https://doi.org/10.1007/s10664-023-10401-z)*. 2023. In [Empirical Software Engineering](https://www.springer.com/journal/10664/) is an open access article.
+- Gunnar Kudrjavets and Ayushi Rastogi. *[Does Code Review Speed Matter for Practitioners?](https://doi.org/10.1007/s10664-023-10401-z)*. 2023. Published in [Empirical Software Engineering](https://www.springer.com/journal/10664/) as an open access article.
 - The thesis: *[The Need for Speed: Increasing the Code Review Velocity](https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity)*.
 - Gunnar Kudrjavets. 2023. "*Reflections on a career at Microsoft between 2000 and
 2015*." Invited talk at Microsoft Development Center Estonia. April 4, 2023, Tallinn, Estonia. Virtual.
@@ -52,11 +52,12 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 
 ### Academic activity
 
-- Member of [Shadow PC (program committee)](https://conf.researchr.org/track/msr-2022/msr-2022-shadow-pc) for 2022 Mining Software Repositories Conference.
-- Member of PC for [ICSME 2022 Industry Track](https://cyprusconferences.org/icsme2022/call-for-industry-track/).
-- Member of PC for [ICSME 2022 Joint Artifact Evaluation Track and ROSE Festival Track](https://cyprusconferences.org/icsme2022/call-for-joint-artifact-evaluation-track-and-rose-festival-track/).
-- Member of PC for [MSR 2023 Data Showcase Committee within the Data and Tool Showcase Track](https://conf.researchr.org/track/msr-2023/msr-2023-data-showcase).
-- Member of PC for [ICSME 2023 Industry Track](https://conf.researchr.org/track/icsme-2023/icsme-2023-industry-track).
-- Member of PC for [ICSME 2023 Artifact Evaluation Track and ROSE Festival](https://conf.researchr.org/track/icsme-2023/icsme-2023-artifact-evaluation-track-and-rose-festival).
+- Member of the [Shadow PC (program committee)](https://conf.researchr.org/track/msr-2022/msr-2022-shadow-pc) for 2022 Mining Software Repositories Conference.
+- PC member for the [ICSME 2022 Industry Track](https://cyprusconferences.org/icsme2022/call-for-industry-track/).
+- PC member for the [ICSME 2022 Joint Artifact Evaluation Track and ROSE Festival Track](https://cyprusconferences.org/icsme2022/call-for-joint-artifact-evaluation-track-and-rose-festival-track/).
+- PC member for the [MSR 2023 Data Showcase Committee within the Data and Tool Showcase Track](https://conf.researchr.org/track/msr-2023/msr-2023-data-showcase).
+- PC member for the [ICSME 2023 Industry Track](https://conf.researchr.org/track/icsme-2023/icsme-2023-industry-track).
+- PC member for the [ICSME 2023 Artifact Evaluation Track and ROSE Festival](https://conf.researchr.org/track/icsme-2023/icsme-2023-artifact-evaluation-track-and-rose-festival).
+- PC member for the [Demonstrations Track of the ESEC/FSE 2024](https://2024.esec-fse.org/track/fse-2024-demonstrations).
 
 **Keywords:** Empirical Software Engineering; Assertions; Memory Management; Mining Software Repositories; Systems Programming
