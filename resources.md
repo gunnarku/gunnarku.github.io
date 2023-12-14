@@ -31,6 +31,7 @@
 * "[How (and How Not) to Write a Good Systems Paper](https://www.usenix.org/legacy/events/samples/submit/advice.html)" by Roy Levin and David D. Redell. A second copy is [here](https://www.usenix.org/conference/osdi12/guidelines-authors).
 * "[How to Get a Paper Accepted at OOPSLA](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html)" by Kent Beck.
 * "[The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf)" by George D. Gopen and Judith A. Swan, In American Scientist, Vol. 78, No. 6 (Nov–Dec, 1990), pp. 550–558.
+* "[On writing](https://terrytao.wordpress.com/advice-on-writing-papers/)" by [Terence Tao](https://terrytao.wordpress.com/).
 
 ### Books
 
@@ -114,6 +115,7 @@ https://www.youtube.com/@datatab/videos
 * [Lorin Hochstein](http://lorinhochstein.org/)
 * [Massimiliano Di Penta](https://mdipenta.github.io/)
 * [Nachiappan (Nachi) Nagappan](https://nachinagappan.github.io/)
+* [Ted Unangst](https://flak.tedunangst.com/)
 * [Terence Tao](https://terrytao.wordpress.com/)
 * [Thomas Zimmermann](https://thomas-zimmermann.com/)
 
@@ -152,6 +154,11 @@ https://www.youtube.com/@datatab/videos
 * Presentation templates: [https://www.canva.com/](https://www.canva.com/)
 * "[Design 101 lecture](https://www.youtube.com/watch?v=okZeimABw7w)" by Michele Lanza.
 * "[How to Get Your Research Adopted](https://slideslive.com/38986031/how-to-get-your-research-adopted)" by [Emery D. Berger](https://emeryberger.com/).
+
+## Negotiating your value in real life
+
+* "[Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)" by [Patrick McKenzie ](https://www.kalzumeus.com/).
+* "[Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)" by [Haseeb Qureshi](https://haseebq.com/).
 
 ## Dealing with the madness of survey analysis
 
