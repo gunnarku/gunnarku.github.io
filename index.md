@@ -26,7 +26,7 @@ Any study I am involved with must be eventually useful for software engineers.
 ### Recent papers and talks
 
 - Marija Franka Žuljević, Antonija Mijatović, Stjepan Ljudevit Marušić, Gunnar Kudrjavets, Ivan Buljan, and Darko Hren. *[Mystical and Affective Aspects of Psychedelic Use in a Naturalistic Setting: A Linguistic Analysis of Online Experience Reports](https://doi.org/10.1080/02791072.2023.2274382)*. In Journal of Psychoactive Drugs. 2023.
-- Gunnar Kudrjavets and Ayushi Rastogi. *[Does Code Review Speed Matter for Practitioners?](https://doi.org/10.1007/s10664-023-10401-z)*. 2023. Published in [Empirical Software Engineering](https://www.springer.com/journal/10664/) as an open access article.
+- Gunnar Kudrjavets and Ayushi Rastogi. *[Does Code Review Speed Matter for Practitioners?](https://doi.org/10.1007/s10664-023-10401-z)*. 2023. Published in [Empirical Software Engineering](https://www.springer.com/journal/10664/) as an open access article. To also appear in [ICSE 2024](https://conf.researchr.org/home/icse-2024) as a [journal-first paper](https://conf.researchr.org/track/icse-2024/icse-2024-journal-first-papers).
 - The thesis: *[The Need for Speed: Increasing the Code Review Velocity](https://research.rug.nl/en/publications/the-need-for-speed-increasing-the-code-review-velocity)*.
 - Gunnar Kudrjavets. 2023. "*Reflections on a career at Microsoft between 2000 and
 2015*." Invited talk at Microsoft Development Center Estonia. April 4, 2023, Tallinn, Estonia. Virtual.
