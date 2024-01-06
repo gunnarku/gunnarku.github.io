@@ -10,12 +10,13 @@ My favorite theater of operations is the unpleasantness of reality.
 
 A public description of my career evolution is on my [LinkedIn page](https://www.linkedin.com/in/gunnarku/).
 
-My academic ties are associated with the [University of Groningen](https://search-rug.github.io/) (Netherlands), but physically I still live in the Seattle area, Washington, USA.
+My academic ties were associated with the [University of Groningen](https://search-rug.github.io/) (Netherlands), but physically I still live in the Seattle area, Washington, USA.
 
 ## Research
 I defended my dissertation on October 17, 2023.
-My thesis supervisors were [Dr. Ayushi Rastogi](https://ayushirastogi.github.io/) and [Prof. Paris Avgeriou](https://www.cs.rug.nl/~paris/) from the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence at the University of Groningen in Netherlands.
+My thesis supervisors were [Dr. Ayushi Rastogi](https://ayushirastogi.github.io/) and [Prof. Paris Avgeriou](https://www.cs.rug.nl/~paris/) from the [Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence](https://www.rug.nl/research/bernoulli/) at the [University of Groningen](https://www.rug.nl/) in Netherlands.
 I was part of the [Software Engineering and Architecture research group](https://search-rug.github.io/).
+A preprint of every recent research paper I have written and accepted by arXiv is available [there](https://arxiv.org/search/cs?searchtype=author&query=Kudrjavets,+G) for free.
 
 My research projects focus on empirical challenges coming from the existing large-scale software projects in industry.
 The key qualifier for me is the practical application of results.
