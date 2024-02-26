@@ -4,6 +4,7 @@
 I have been a software engineer who has liked to design, write, and optimize low-level code (currently defined as `C` or `C++`) for most of my career.
 My favorite shell is a debugger prompt.
 My favorite theater of operations is the unpleasantness of reality.
+In most cases, getting a job in the industry involves [interviewing](interviewing.md) and studying for interviews.
 
 [Microsoft](https://www.microsoft.com/en-us/) taught me how to be an operating systems engineer who knows a thing or two about systems performance and security.
 [Meta](https://www.meta.com/) (company formely known as Facebook) enabled me to refine those skills in a different context.
