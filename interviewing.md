@@ -7,7 +7,7 @@
 
 ## Modern and not so modern C++
 
-# General guidelines and resource collections
+### General guidelines and resource collections
 
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list/388282#388282)
 * [All things CppCon](https://github.com/CppCon/)
@@ -18,7 +18,7 @@
 * [Rainer Grimm's Modern C++ Collection](https://leanpub.com/b/modernccollection)
 * [Rainer Grimm's articles](https://www.modernescpp.com/index.php/table-of-content/)
 
-# Basics
+### Basics
 
 * [Constructors](https://learn.microsoft.com/en-us/cpp/cpp/constructors-cpp?view=msvc-170)
 * [Welcome back to C++ - Modern C++](https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
@@ -26,14 +26,15 @@
 * [Type traits](https://www.internalpointers.com/post/quick-primer-type-traits-modern-cpp)
 * [Custom iterators](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
 * [A basic introduction to coding in modern C++.](https://github.com/cmu-db/15445-bootcamp)
+* [Back to Basics: C++ API Design - Jason Turner - CppCon 2022](https://www.youtube.com/watch?v=zL-vn_pGGgY)
 
-# Libraries
+### Libraries
 
 * [Abseil C++ Tips](https://abseil.io/tips/)
 * [Folly: Facebook Open-source Library](https://github.com/facebook/folly/)
 * [GSL: Guidelines Support Library](https://github.com/microsoft/GSL)
 
-# Selected CppCon talks
+### Selected CppCon talks
 
 * [CppCon 2016: Hans Boehm "Using weakly ordered C++ atomics correctly"](https://www.youtube.com/watch?v=M15UKpNlpeM)
 * [Your New Mental Model of constexpr - Jason Turner - CppCon 2021](https://www.youtube.com/watch?v=MdrfPSUtMVM)
@@ -67,6 +68,9 @@
 
 * [A garbage collector for C and C++](https://hboehm.info/gc/)
 * [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
+* ["Transactions: myths, surprises and opportunities" by Martin Kleppmann)](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
+* [UNIX Application and System Programming lecture notes](https://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php)
+* [Basics of x86-64 assembly language programming](https://memorialu.gitlab.io/Engineering/ECE/Teaching/operating-systems/website/reference/x86/)
 
 ## Design madness
 

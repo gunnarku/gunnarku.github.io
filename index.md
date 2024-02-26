@@ -4,7 +4,6 @@
 I have been a software engineer who has liked to design, write, and optimize low-level code (currently defined as `C` or `C++`) for most of my career.
 My favorite shell is a debugger prompt.
 My favorite theater of operations is the unpleasantness of reality.
-In most cases, getting a job in the industry involves [interviewing](interviewing.md) and studying for interviews.
 
 [Microsoft](https://www.microsoft.com/en-us/) taught me how to be an operating systems engineer who knows a thing or two about systems performance and security.
 [Meta](https://www.meta.com/) (company formely known as Facebook) enabled me to refine those skills in a different context.
@@ -23,7 +22,11 @@ My research projects focus on empirical challenges coming from the existing larg
 The key qualifier for me is the practical application of results.
 Any study I am involved with must be eventually useful for software engineers.
 
-[Resources](resources.md) I found helpful in pretending to be a semi-functioning Ph.D. candidate.
+## References and link collections
+
+- [Resources](resources.md) I found helpful in pretending to be a semi-functioning Ph.D. candidate.
+- Studying for [interviews](interviewing.md).
+- All things [memory management](memory.md).
 
 ### Recent papers and talks
 
