@@ -50,13 +50,14 @@ Take the following with a grain of salt.
 
 * [Four reasons to check what the malloc function returned](https://pvs-studio.com/en/blog/posts/cpp/0938/). The follow-up [discussion](https://habr.com/en/companies/pvs-studio/articles/348098/comments/#comment_10649678) in Russian.
 
+
 ### TLS is not easy
 
 * [A Deep dive into (implicit) Thread Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls)
 * [ELF Handling For Thread-Local Storage](https://uclibc.org/docs/tls.pdf) by Ulrich Drepper.
 * [Use Cases for Thread-Local Storage](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2014/n4324.html) by Paul E. McKenney.
 * Bug: [Access to __thread variable may call malloc](https://sourceware.org/bugzilla/show_bug.cgi?id=16133)
-* Bug: [alloc-tls: Handle thread-local storage on platforms without #[thread_local]](https://github.com/ezrosent/allocators-rs/issues/54)
+* Bug: [alloc-tls: Handle thread-local storage on platforms without thread_local](https://github.com/ezrosent/allocators-rs/issues/54)
 
 ## General
 
@@ -64,6 +65,7 @@ Take the following with a grain of salt.
 * [A Memory Allocator](https://gee.cs.oswego.edu/dl/html/malloc.html) by Doug Lea.
 * [Page Size](https://www.omscs-notes.com/operating-systems/memory-management/#page-size)
 * [/Zc:throwingNew (Assume operator new throws)](https://learn.microsoft.com/en-us/cpp/build/reference/zc-throwingnew-assume-operator-new-throws?view=msvc-170)
+* [All papers written by PDOS (MIT Parallel & Distributed Operating Systems Group) since '93](https://pdos.csail.mit.edu/publications/)
 
 ## Performance
 
@@ -87,6 +89,18 @@ Take the following with a grain of salt.
 * [Abusing Your Memory Model for Fun and Profit - Samy Al Bahra, Paul Khuong - CppCon 2019](https://www.youtube.com/watch?v=N07tM7xWF1U)
 * [Building a Lock-free Multi-producer, Multi-consumer Queue for Tcmalloc - Matt Kulukundis - CppCon 21](https://www.youtube.com/watch?v=_qaKkHuHYE0)
 
-# Allocators
+# Papers and references on allocators and memory management
 
+* [A bounded memory allocator for software-defined global address spaces](https://dl.acm.org/doi/10.1145/3241624.2926709)
+* [Allocators in Rust](https://github.com/ezrosent/allocators-rs)
 * [libumem](https://en.wikipedia.org/wiki/Libumem) and its [port](https://github.com/omniti-labs/portableumem/).
+* [CLMalloc: contiguous memory management mechanism for large-scale CPU-accelerator hybrid architectures](https://doi.org/10.1117/12.2660807)
+* [CustoMalloc: efficient synthesized memory allocators](https://dl.acm.org/doi/10.1002/spe.4380230804)
+* [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
+* [Identifying Memory Allocation Patterns in HEP Software](https://cds.cern.ch/record/2298615/files/pdf.pdf). Here's how malloc interpose [is implemented](https://github.com/FOM-Tools/FOM-Tools/blob/master/src/mallocinterpose.cxx).
+* [Mallacc: Accelerating Memory Allocation](https://dl.acm.org/doi/10.1145/3093337.3037736)
+* [Mostly lock-free malloc](https://dl.acm.org/doi/abs/10.1145/512429.512451)
+* [Profiling a warehouse-scale computer](https://dl.acm.org/doi/10.1145/2749469.2750392)
+* [Scalable lock-free dynamic memory allocation](https://dl.acm.org/doi/10.1145/996893.996848)
+* [SSMalloc: a low-latency, locality-conscious memory allocator with stable performance scalability](https://dl.acm.org/doi/10.1145/2349896.2349911)
+* [wfspan: Wait-free Dynamic Memory Management](https://dl.acm.org/doi/10.1145/3533724)

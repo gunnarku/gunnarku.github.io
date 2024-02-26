@@ -17,6 +17,8 @@
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [Rainer Grimm's Modern C++ Collection](https://leanpub.com/b/modernccollection)
 * [Rainer Grimm's articles](https://www.modernescpp.com/index.php/table-of-content/)
+* [C++ Weekly With Jason Turner](https://www.youtube.com/user/lefticus1/videos)
+* [C++ Stories](https://www.cppstories.com/p/resources/) by Bartlomiej Filipek.
 
 ### Basics
 
@@ -71,6 +73,7 @@
 * ["Transactions: myths, surprises and opportunities" by Martin Kleppmann)](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 * [UNIX Application and System Programming lecture notes](https://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php)
 * [Basics of x86-64 assembly language programming](https://memorialu.gitlab.io/Engineering/ECE/Teaching/operating-systems/website/reference/x86/)
+* [The benefits and costs of writing a POSIX Kernel in a high-level language](https://dspace.mit.edu/handle/1721.1/122734)
 
 ## Design madness
 

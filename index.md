@@ -21,6 +21,7 @@ A preprint of every recent research paper I have written and accepted by arXiv i
 My research projects focus on empirical challenges coming from the existing large-scale software projects in industry.
 The key qualifier for me is the practical application of results.
 Any study I am involved with must be eventually useful for software engineers.
+Niklaus Wirth's "[A Plea for Lean Software](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)" is still one of my favorite CS papers.
 
 ## References and link collections
 
