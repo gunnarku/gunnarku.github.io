@@ -14,6 +14,7 @@ My academic ties were associated with the [University of Groningen](https://sear
 
 ## Research
 I defended my dissertation on October 17, 2023.
+Majority of my research was related to the insanity of [code reviews](cr.md).
 My thesis supervisors were [Dr. Ayushi Rastogi](https://ayushirastogi.github.io/) and [Prof. Paris Avgeriou](https://www.cs.rug.nl/~paris/) from the [Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence](https://www.rug.nl/research/bernoulli/) at the [University of Groningen](https://www.rug.nl/) in Netherlands.
 I was part of the [Software Engineering and Architecture research group](https://search-rug.github.io/).
 A preprint of every recent research paper I have written and accepted by arXiv is available [there](https://arxiv.org/search/cs?searchtype=author&query=Kudrjavets,+G) for free.
@@ -22,6 +23,7 @@ My research projects focus on empirical challenges coming from the existing larg
 The key qualifier for me is the practical application of results.
 Any study I am involved with must be eventually useful for software engineers.
 Niklaus Wirth's "[A Plea for Lean Software](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)" is still one of my favorite CS papers.
+Read "[Producing wrong data without doing anything obviously wrong!](https://dl.acm.org/doi/10.1145/1508244.1508275)" and ponder about how complicated it is to produce valid results.
 
 ## References and link collections
 

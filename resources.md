@@ -59,6 +59,13 @@
 * "[Writing an effective response to a manuscript review](https://www.journals.uchicago.edu/doi/full/10.1086/688886)".
 * It's just going through the motions ... "[The Toxic Culture of Rejection in Computer Science](https://sigbed.org/2022/08/22/the-toxic-culture-of-rejection-in-computer-science/)" by [Edward Lee](https://ptolemy.berkeley.edu/~eal/index.html).
 
+## Completing your thesis
+
+* [IEEE Post-Publication Policies](https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-policies/post-publication-policies/)
+* [IEEE: Can I reuse my published article in my thesis?](https://conferences.ieeeauthorcenter.ieee.org/get-published/about-transferring-copyright-to-ieee/#thesis)
+* [ACM Author Rights](https://authors.acm.org/author-resources/author-rights)
+* [Can I include Figures and Texts from IEEE/ACM publications in my PhD thesis?](https://academia.stackexchange.com/questions/182365/can-i-include-figures-and-texts-from-ieee-acm-publications-in-my-phd-thesis)
+
 ## Mathematical statistics
 
 ### General
@@ -121,10 +128,11 @@ https://www.youtube.com/@datatab/videos
 
 ## Journals
 
-* [Empirical Software Engineering](https://www.springer.com/journal/10664)
+* [Empirical Software Engineering](https://www.springer.com/journal/10664). Look at [Publish Open Access in EMSE](https://emsejournal.github.io/open_access)
 * [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 * [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
 * [The long list of SE conferences and journals](https://twitter.com/aserebrenik/status/1684570243182792707). Direct link to [Google Sheets file](https://t.co/Zl4MJc3GPa).
+* Springer Nature and their [OA agreement for the Netherlands](https://www.springernature.com/gp/open-research/oa-agreements/netherlands). And [more details](https://springernature.turtl.co/story/ta_authors/page/5?pid=63ad4ff9c37e816846875b4f).
 
 ## Random useful stuff
 

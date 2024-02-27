@@ -96,11 +96,71 @@ Take the following with a grain of salt.
 * [libumem](https://en.wikipedia.org/wiki/Libumem) and its [port](https://github.com/omniti-labs/portableumem/).
 * [CLMalloc: contiguous memory management mechanism for large-scale CPU-accelerator hybrid architectures](https://doi.org/10.1117/12.2660807)
 * [CustoMalloc: efficient synthesized memory allocators](https://dl.acm.org/doi/10.1002/spe.4380230804)
+* [DieHard](https://github.com/emeryberger/DieHard)
+* [dlmalloc](https://gee.cs.oswego.edu/dl/html/malloc.html)
+* [dnmalloc](https://fossies.org/linux/misc/samhain-4.5.0.tar.gz/samhain-4.5.0/src/dnmalloc.c)
+* scalloc: [Fast, multicore-scalable, low-fragmentation memory allocation through large virtual memory and global data structures](https://dl.acm.org/doi/10.1145/2814270.2814294). Source code is [here](https://github.com/cksystemsgroup/scalloc). Project page is [here](http://scalloc.cs.uni-salzburg.at/).
+* ffmalloc
+* FLFUMSA
+* [FreeGuard](https://github.com/UTSASRG/FreeGuard)
+* [Guarder](https://github.com/UTSASRG/Guarder)
+* [Hardened malloc](https://github.com/GrapheneOS/hardened_malloc/)
+* HMalloc
+* [Hoard](https://github.com/emeryberger/Hoard)
 * [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [Identifying Memory Allocation Patterns in HEP Software](https://cds.cern.ch/record/2298615/files/pdf.pdf). Here's how malloc interpose [is implemented](https://github.com/FOM-Tools/FOM-Tools/blob/master/src/mallocinterpose.cxx).
+* [Intel TBB allocator](https://github.com/oneapi-src/oneTBB)
+* [IsoAlloc](https://github.com/struct/isoalloc)
+* [jemalloc](https://github.com/jemalloc)
+* [jmalloc](https://github.com/Aalto5G/jmalloc)
+* [kmalloc](https://github.com/freebsd/freebsd-src/blob/main/libexec/rtld-elf/rtld_malloc.c)
+* LFMalloc
+* LFMalloc
+* LFMallocwoGC
+* LKmalloc
+* [Lock-free memory allocator without garbage collection on multicore embedded devices](https://ieeexplore.ieee.org/document/6776071)
+* [Lockless](http://locklessinc.com/)
+* LRMalloc
+* [ltalloc](https://github.com/alextretyak/ltalloc)
+* [Makalu: fast recoverable allocation of non-volatile memory](https://dl.acm.org/doi/10.1145/2983990.2984019). Source code is [here](https://github.com/HewlettPackard/Atlas/tree/makalu).
+* MarkUs
 * [Mallacc: Accelerating Memory Allocation](https://dl.acm.org/doi/10.1145/3093337.3037736)
+* MCMalloc
+* [McRT-Malloc: a scalable transactional memory allocator](https://dl.acm.org/doi/abs/10.1145/1133956.1133967)
+* PAllocator: [Memory management techniques for large-scale persistent-main-memory systems](https://dl.acm.org/doi/abs/10.14778/3137628.3137629)
+* [Mesh](https://github.com/plasma-umass/Mesh)
 * [Mostly lock-free malloc](https://dl.acm.org/doi/abs/10.1145/512429.512451)
+* [MPKAlloc](https://github.com/BUseclab/mpkalloc)
+* mtmalloc: [article here](https://www.oracle.com/technical-resources/articles/it-infrastructure/dev-mem-alloc.html) and [manual here](https://docs.oracle.com/cd/E88353_01/html/E37843/mtmalloc-3malloc.html)
+* [musl malloc](https://musl.libc.org/)
+* [NBMALLOC: Allocating Memory in a Lock-Free Manner](https://link.springer.com/article/10.1007/s00453-008-9268-x). See [this paper](https://link.springer.com/chapter/10.1007/11561071_31) as well. Project page is [here](https://www.cse.chalmers.se/research/group/dcs/nbmalloc.html).
+* [nedmalloc](https://github.com/ned14/nedmalloc)
+* [NUMAlloc: A Faster NUMA Memory Allocator](https://dl.acm.org/doi/10.1145/3591195.3595276)
+* [NVAlloc: rethinking heap metadata management in persistent memory allocators](https://dl.acm.org/doi/10.1145/3503222.3507743). Source code is [here](https://github.com/ISCS-ZJU/NVAlloc).
+* [ottomalloc](https://github.com/openbsd/src/blob/master/lib/libc/stdlib/malloc.c)
+* [PartitionAlloc](https://chromium.googlesource.com/chromium/src/+/main/base/allocator)
+* [phkmalloc](https://github.com/emeryberger/Malloc-Implementations/tree/master/allocators/phkmalloc)
 * [Profiling a warehouse-scale computer](https://dl.acm.org/doi/10.1145/2749469.2750392)
+* [ptmalloc3](http://www.malloc.de/en/)
+* ptlbmalloc2
+* Rockall
+* [rpmalloc](ttps://github.com/mjansson/rpmalloc)
 * [Scalable lock-free dynamic memory allocation](https://dl.acm.org/doi/10.1145/996893.996848)
+* [Scudo](https://source.android.com/docs/security/test/scudo)
+* [SFMalloc](https://github.com/jeffhammond/sfmalloc)
+* [SlimGuard](https://github.com/ssrg-vt/SlimGuard)
+* [snmalloc](https://github.com/microsoft/snmalloc)
 * [SSMalloc: a low-latency, locality-conscious memory allocator with stable performance scalability](https://dl.acm.org/doi/10.1145/2349896.2349911)
+* [streamflow](https://github.com/scotts/streamflow)
+* [Supermalloc](https://github.com/kuszmaul/SuperMalloc)
+* Thrifty-malloc
+* [TCMalloc](https://github.com/google/tcmalloc)
+* [TLSF](http://www.gii.upv.es/tlsf/)
+* Ralloc: [Understanding and optimizing persistent memory allocation](https://dl.acm.org/doi/abs/10.1145/3332466.3374502).
+* [VCMalloc](https://github.com/ycinhdj/vcmalloc)
+* Traces of vmalloc in Apple's [ksh](https://opensource.apple.com/source/ksh/ksh-13/ksh/src/lib/libast/include/vmalloc.h.auto.html).
+* [Vmalloc](https://doi.org/10.1002/(SICI)1097-024X(199603)26:3%3C357::AID-SPE15%3E3.0.CO;2-%23)
 * [wfspan: Wait-free Dynamic Memory Management](https://dl.acm.org/doi/10.1145/3533724)
+* [xmalloc](https://github.com/ederc/xmalloc)
+* XMalloc
+
