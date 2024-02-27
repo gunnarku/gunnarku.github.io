@@ -76,6 +76,8 @@ https://www.youtube.com/@datatab/videos
 * "[StatQuest with Josh Starmer YouTube channel](https://www.youtube.com/c/joshstarmer)"
 * "[Biostatistics YouTube channel](https://www.youtube.com/@biostatisticsIBL)"
 * "[Biostatistics Book Series](https://github.com/FransRodenburg/Biostatistics-Book-Series)" by Frans Rodenburg.
+* [Cochran–Armitage test for trend](https://en.wikipedia.org/wiki/Cochran%E2%80%93Armitage_test_for_trend)
+* [A Look at Precision, Recall, and F1-Score](https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec) by Teemu Kanstrén.
 
 ### The madness and controversy of p-values
 
@@ -101,10 +103,12 @@ https://www.youtube.com/@datatab/videos
 
 ### Mann-Whitney U test
 
+* [Mann-Whitney U-Test](https://datatab.net/tutorial/mann-whitney-u-test)
 * "[Good explanation about Mann-Whitney U Test](https://statistics.laerd.com/spss-tutorials/mann-whitney-u-test-using-spss-statistics.php)."
 * "[Two-sample Mann–Whitney U Test](https://rcompanion.org/handbook/F_04.html)" by Salvatore S. Mangiafico.
 * "[Confidence intervals for an effect size measure based on the Mann-Whitney statistic. Part 1: general issues and tail-area-based methods](https://pubmed.ncbi.nlm.nih.gov/16252269/)" by Robert G. Newcombe.
 * "[Confidence Intervals of the Mann-Whitney Parameter that are Compatible with the Wilcoxon-Mann-Whitney Test](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6377068/)" by Michael P. Fay1 and Yaakov Malinovsky.
+* [Tests for Ordinal Categorical Data](https://www.youtube.com/watch?v=2L_QAgVXyhc)
 
 ## People who write interesting stuff about research and real life
 
@@ -144,6 +148,7 @@ https://www.youtube.com/@datatab/videos
 * "[Open Science Policies](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies)" by [Daniel Graziotin](https://ineed.coffee/).
 * "The Ph.D. Grind. A Ph.D. Student Memoir" by Philip J. Guo. See if you can find a PDF copy somewhere. [All the existing links are dead](https://news.ycombinator.com/item?id=17494273).
 * [Where to publish?](https://giasuddin.ca/publications/)
+* [Mars Code: building robust software](https://www.verticalsysadmin.com/making_robust_software/)
 
 ## Random tools
 
@@ -180,6 +185,11 @@ https://www.youtube.com/@datatab/videos
 * "[Using likert on summary results](https://rpubs.com/m_dev/likert_summary)" by M. Devlin.
 * "[Qualitative Analysis](https://courses.lumenlearning.com/suny-hccc-research-methods/chapter/chapter-13-qualitative-analysis/)".
 * "[Worse Than Spam: Issues In Sampling Software Developers](https://dl.acm.org/doi/10.1145/2961111.2962628)" by Sebastian Baltes and Stephan Diehl.
+* [Is a Likert-type scale ordinal or interval data?](https://www.researchgate.net/post/Is_a_Likert-type_scale_ordinal_or_interval_data)
+* [can likert scale data ever be continuous?](https://www.theanalysisfactor.com/can-likert-scale-data-ever-be-continuous/) by Karen Grace-Martin.
+* [Analyzing ordinal data with metric models: What could possibly go wrong?](https://doi.org/10.1016/j.jesp.2018.08.009) by Torrin M. Liddell, John K. Kruschke.
+* [Introduction to Likert Data](https://rcompanion.org/handbook/E_01.html)
+
 
 ## Random articles about R
 
@@ -191,3 +201,5 @@ https://www.youtube.com/@datatab/videos
 * "[How to Perform Correlation Analysis in Time Series data using R?](https://www.lobdata.com.br/2020/09/15/how-to-perform-correlation-analysis-in-time-series-data-using-r/)" by Luciano Oliveira Batista.
 * "[Testing for time trend](http://ritsokiguess.site/docs/2017/12/16/testing-for-time-trend/)" by Ken.
 * "[R Cookbook, 2nd Edition](https://rc2e.com/index.html)" by James (JD) Long and Paul Teetor.
+* [Contingency Tables](http://analyticswithr.com/contingencytables.html)
+

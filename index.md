@@ -30,6 +30,7 @@ Read "[Producing wrong data without doing anything obviously wrong!](https://dl.
 - [Resources](resources.md) I found helpful in pretending to be a semi-functioning Ph.D. candidate.
 - Studying for [interviews](interviewing.md).
 - All things [memory management](memory.md).
+- [Compiler warnings](warnings.md).
 
 ### Recent papers and talks
 

@@ -27,6 +27,7 @@
 * [Futures for C++11 at Facebook](https://engineering.fb.com/2015/06/19/developer-tools/futures-for-c-11-at-facebook)
 * [Type traits](https://www.internalpointers.com/post/quick-primer-type-traits-modern-cpp)
 * [Custom iterators](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
+* [C++ rvalue references and move semantics for beginners](https://www.internalpointers.com/post/c-rvalue-references-and-move-semantics-beginners)
 * [A basic introduction to coding in modern C++.](https://github.com/cmu-db/15445-bootcamp)
 * [Back to Basics: C++ API Design - Jason Turner - CppCon 2022](https://www.youtube.com/watch?v=zL-vn_pGGgY)
 
