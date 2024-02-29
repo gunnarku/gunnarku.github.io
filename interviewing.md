@@ -4,6 +4,9 @@
 
 * [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/) by Chris Wellons.
 * [What’s New in C in 2023?](https://blog.aaronballman.com/2023/10/whats-new-in-c-in-2023/) by Aaron Ballman.
+* [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c) by Jorengarenar.
+* [Scope-based resource management for the kernel](https://lwn.net/Articles/934679/) by Jonathan Corbet.
+* [Angrave's crowd-sourced System Programming wiki-book](https://github.com/angrave/SystemProgramming/wiki)
 
 ## Modern and not so modern C++
 
@@ -19,6 +22,7 @@
 * [Rainer Grimm's articles](https://www.modernescpp.com/index.php/table-of-content/)
 * [C++ Weekly With Jason Turner](https://www.youtube.com/user/lefticus1/videos)
 * [C++ Stories](https://www.cppstories.com/p/resources/) by Bartlomiej Filipek.
+* [C++17 - The Complete Guide](https://www.cppstd17.com/) by Nicolai M. Josuttis.
 
 ### Basics
 
@@ -66,6 +70,14 @@
 * [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 * [Notes on C++ concurrency](https://people.cs.pitt.edu/~xianeizhang/notes/Concurrency.html)
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html). Also [here](https://arxiv.org/abs/1701.00854).
+
+## C++ other
+
+* [Debugging the C++ standard library on macOS](https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html) by Juan Cruz Viotti.
+* [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
+* [A curated list of static analysis (SAST) tools and linters for all programming languages](https://github.com/analysis-tools-dev/static-analysis)
+* [C++ Core Guidelines: A Short Detour to Contracts in C++20](https://www.modernescpp.com/index.php/c-core-guidelines-a-detour-to-contracts/)
+* [https://putridparrot.com/blog/category/cc/](https://putridparrot.com/blog/category/cc/)
 
 ## Dive Deep
 

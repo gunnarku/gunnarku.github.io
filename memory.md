@@ -9,6 +9,11 @@
 * [Identifying high-memory use with jetsam event reports](https://developer.apple.com/documentation/xcode/identifying-high-memory-use-with-jetsam-event-reports)
 * [Handling low memory conditions in iOS and Mavericks](https://newosxbook.com/articles/MemoryPressure.html)
 * [Enabling the Malloc Debugging Features](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/MallocDebug.html)
+* [iOS WeChat memory monitoring](https://www.programmersought.com/article/7089701673/)
+* [VM Tracker for iOS memory in-depth exploration](https://www.programmersought.com/article/2794632201/)
+* [iOS Debugging Magic](https://developer.apple.com/library/archive/technotes/tn2239/_index.html)
+* [Using Dynamic Libraries](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/UsingDynamicLibraries.html)
+* [Trace Dynamic Memory Allocations](https://craftware.xyz/tips/Trace-memory-allocations.html)
 
 ## FreeBSD
 
@@ -19,6 +24,7 @@
 ## Android
 
 * [Understanding Android memory usage (Google I/O '18)](https://www.youtube.com/watch?v=w7K0jio8afM)
+* [Debugging Native Memory Use](https://source.android.com/docs/core/tests/debug/native-memory)
 
 ## Linux
 
@@ -32,6 +38,7 @@
 * [Open-sourcing oomd, a new approach to handling OOMs](https://engineering.fb.com/2018/07/19/production-engineering/oomd/)
 * [OOM handling](https://github.com/gperftools/gperftools/wiki/OOM-handling)
 * [what is the purpose of memory overcommitment on Linux?](https://unix.stackexchange.com/questions/441364/what-is-the-purpose-of-memory-overcommitment-on-linux)
+* [Kernel Korner - Allocating Memory in the Kernel](https://www.linuxjournal.com/article/6930)
 
 ### Nuances of LD_PRELOAD and wrapping malloc() and friends
 
@@ -66,9 +73,17 @@ Take the following with a grain of salt.
 * [Page Size](https://www.omscs-notes.com/operating-systems/memory-management/#page-size)
 * [/Zc:throwingNew (Assume operator new throws)](https://learn.microsoft.com/en-us/cpp/build/reference/zc-throwingnew-assume-operator-new-throws?view=msvc-170)
 * [All papers written by PDOS (MIT Parallel & Distributed Operating Systems Group) since '93](https://pdos.csail.mit.edu/publications/)
+* [Malloc Internals and You](https://developers.redhat.com/blog/2017/03/02/malloc-internals-and-you) by DJ Delorie.
+* [A look at how malloc works on the Mac](https://www.cocoawithlove.com/2010/05/look-at-how-malloc-works-on-mac.html) by Matt Gallagher.
+* [Heap: Pleasures and Pains](https://learn.microsoft.com/en-us/previous-versions/ms810466(v=msdn.10)) by Murali R. Krishnan.
+* [Some things I've learned about memory](https://neugierig.org/software/blog/2011/05/memory.html)
+* [Persistent Memory Allocation](https://queue.acm.org/detail.cfm?id=3534855&doi=10.1145%2F3534855)
 
 ## Performance
 
+* [Random ASCII – tech blog of Bruce Dawson](https://randomascii.wordpress.com/)
+* [Understand the Impact of Low-Lock Techniques in Multithreaded Apps](https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/october/understanding-low-lock-techniques-in-multithreaded-apps) by Vance Morrison.
+* [Concurrency: What Every Dev Must Know About Multithreaded Apps](https://learn.microsoft.com/en-us/archive/msdn-magazine/2005/august/concurrency-what-every-dev-must-know-about-multithreaded-apps) by Vance Morrison.
 * [Profiling Custom Memory Allocators](https://mmore500.com/2020/07/02/malloc-profile.html)
 * [.NET memory analysis and diagnostics](https://github.com/Maoni0/mem-doc) by Maoni Stephens.
 * [Work related to optimizing memory allocations in Firefox](https://blog.mozilla.org/nnethercote/category/memory-allocation/)
@@ -77,6 +92,17 @@ Take the following with a grain of salt.
 * [How Memory Allocation Affects Performance in Multithreaded Programs](https://www.oracle.com/technical-resources/articles/it-infrastructure/dev-mem-alloc.html)
 * [Magazines and Vmem: Extending the Slab Allocator to Many CPUs and Arbitrary Resources](https://www.usenix.org/conference/2001-usenix-annual-technical-conference/magazines-and-vmem-extending-slab-allocator-many)
 * [Beyond malloc efficiency to fleet efficiency: a hugepage-aware memory allocator](https://www.usenix.org/conference/osdi21/presentation/hunter)
+* [TfMallocTag Class Reference](https://openusd.org/docs/api/class_tf_malloc_tag.html)
+* [You Can Do Any Kind of Atomic Read-Modify-Write Operation](https://preshing.com/20150402/you-can-do-any-kind-of-atomic-read-modify-write-operation/)
+* [Concurrency in  C++11](https://people.cs.pitt.edu/~xianeizhang/notes/Concurrency.html)
+* [Pool tag quick scanning for windows memory analysis](https://www.sciencedirect.com/science/article/pii/S1742287616000062)
+* [Concurrency Freaks](https://concurrencyfreaks.blogspot.com/)
+* [Is passing arguments as const references premature optimization?](https://softwareengineering.stackexchange.com/questions/372105/is-passing-arguments-as-const-references-premature-optimization)
+* [Tuning Oracle databases](https://tanelpoder.com/)
+* [Chrome OS Out of Memory Design](https://www.chromium.org/chromium-os/chromiumos-design-docs/out-of-memory-handling/)
+* [Examining Problematic Memory in C/C++ Applications with BPF, perf, and Memcheck](https://doordash.engineering/2021/04/01/examining-problematic-memory-with-bpf-perf-and-memcheck/)
+* [Clownshoes available in sizes 2^10+1 and up!](https://blog.mozilla.org/nnethercote/2011/08/05/clownshoes-available-in-sizes-2101-and-up/)
+* [Beyond malloc efficiency to fleet efficiency](https://cloud.google.com/blog/topics/systems/trading-off-malloc-costs-and-fleet-efficiency)
 
 ## CppCon (and other) talks
 
@@ -149,12 +175,12 @@ Take the following with a grain of salt.
 * [Scudo](https://source.android.com/docs/security/test/scudo)
 * [SFMalloc](https://github.com/jeffhammond/sfmalloc)
 * [SlimGuard](https://github.com/ssrg-vt/SlimGuard)
-* [snmalloc](https://github.com/microsoft/snmalloc)
+* [snmalloc](https://github.com/microsoft/snmalloc) and [paper here](https://dl.acm.org/doi/abs/10.1145/3315573.3329980).
 * [SSMalloc: a low-latency, locality-conscious memory allocator with stable performance scalability](https://dl.acm.org/doi/10.1145/2349896.2349911)
 * [streamflow](https://github.com/scotts/streamflow)
 * [Supermalloc](https://github.com/kuszmaul/SuperMalloc)
 * Thrifty-malloc
-* [TCMalloc](https://github.com/google/tcmalloc)
+* [TCMalloc](https://github.com/google/tcmalloc) and [paper here](https://dl.acm.org/doi/10.1145/2618128.2618131).
 * [TLSF](http://www.gii.upv.es/tlsf/)
 * Ralloc: [Understanding and optimizing persistent memory allocation](https://dl.acm.org/doi/abs/10.1145/3332466.3374502).
 * [VCMalloc](https://github.com/ycinhdj/vcmalloc)
