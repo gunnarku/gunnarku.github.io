@@ -5,6 +5,7 @@ There are too many papers on the topics to list. Here are some to get you
 started with:
 
 * Another [collection of code review papers](https://github.com/manjunath5496/Code-Review-Papers/blob/main/README.md).
+* [Code Review Papers](https://naist-se.github.io/code-review/dataset/)
 * [Distributed code review system for Git repos](https://github.com/google/git-appraise)
 * [Code Review is just reviewing code? A qualitative study with practitioners in industry](https://dl.acm.org/doi/10.1145/3474624.3477063)
 * [Code review quality: how developers see it](https://dl.acm.org/doi/abs/10.1145/2884781.2884840)
@@ -21,3 +22,13 @@ started with:
 * [What happens in my code reviews? An investigation on automatically classifying review changes](https://link.springer.com/article/10.1007/s10664-021-10075-5)
 * [Investigating the effectiveness of peer code review in distributed software development based on objective and subjective data](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0)
 * [Concerns identified in code review: A fine-grained, faceted classification](https://doi.org/10.1016/j.infsof.2022.107054)
+* [Reviewing rounds prediction for code patches](https://link.springer.com/article/10.1007/s10664-021-10035-z#Sec29)
+
+# Other stuff about code reviews
+
+* [Mining Code Review Repositories](https://kin-y.github.io/miningReviewRepo/)
+* [Working with Gerrit: An example](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough.html)
+* [A list of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet)
+* [Problems with Pull Requests and How to Fix Them](https://gregoryszorc.com/blog/2020/01/07/problems-with-pull-requests-and-how-to-fix-them/)
+
+

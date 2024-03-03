@@ -14,6 +14,11 @@
 * [iOS Debugging Magic](https://developer.apple.com/library/archive/technotes/tn2239/_index.html)
 * [Using Dynamic Libraries](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/UsingDynamicLibraries.html)
 * [Trace Dynamic Memory Allocations](https://craftware.xyz/tips/Trace-memory-allocations.html)
+* [Page Cache, the Affair Between Memory and Files](https://manybutfinite.com/post/page-cache-the-affair-between-memory-and-files/)
+* [About Memory Management | Advanced Memory Management Programming Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011i)
+* [About the Virtual Memory System | Memory Usage Performance Guidelines](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html). Start from the [top](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/ManagingMemory.html#//apple_ref/doc/uid/10000160i). Definitely read [Tips for Allocating Memory](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/MemoryAlloc.html).
+* [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416/)
+* [No pressure, Mon! Handling low memory conditions in iOS and Mavericks](https://newosxbook.com/articles/MemoryPressure.html)
 
 ## FreeBSD
 
@@ -25,6 +30,7 @@
 
 * [Understanding Android memory usage (Google I/O '18)](https://www.youtube.com/watch?v=w7K0jio8afM)
 * [Debugging Native Memory Use](https://source.android.com/docs/core/tests/debug/native-memory)
+* [Is this explanation about VSS/RSS/PSS/USS accurate?](https://stackoverflow.com/questions/22372960/is-this-explanation-about-vss-rss-pss-uss-accurate)
 
 ## Linux
 
@@ -78,6 +84,7 @@ Take the following with a grain of salt.
 * [Heap: Pleasures and Pains](https://learn.microsoft.com/en-us/previous-versions/ms810466(v=msdn.10)) by Murali R. Krishnan.
 * [Some things I've learned about memory](https://neugierig.org/software/blog/2011/05/memory.html)
 * [Persistent Memory Allocation](https://queue.acm.org/detail.cfm?id=3534855&doi=10.1145%2F3534855)
+* [How to exploit a double free vulnerability in 2021](https://github.com/stong/how-to-exploit-a-double-free)
 
 ## Performance
 

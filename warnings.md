@@ -20,6 +20,8 @@
 * [Re: [PATCH] Revert "Enable '-Werror' by default for all kernel builds"](https://lkml.org/lkml/2021/9/13/1966)
 * [Scaling static analyses at Facebook](https://dl.acm.org/doi/abs/10.1145/3338112)
 * [A longitudinal study of static analysis warning evolution and the effects of PMD on software quality in Apache open source projects](https://link.springer.com/article/10.1007/s10664-020-09880-1)
+* [Static code analysis and compiler warnings](https://barro.github.io/2016/05/static-code-analysis-and-compiler-warnings/)
+* [Warning parser](https://github.com/qdewaghe/warning-parser/blob/master/src/warning_parser.py)
 
 # Build madness
 

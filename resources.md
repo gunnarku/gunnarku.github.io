@@ -11,11 +11,12 @@
 
 * "[PhD Completion Milestones](https://collaboration.csc.ncsu.edu/laurie/PhD.html)" by [Laurie Williams](https://collaboration.csc.ncsu.edu/laurie/).
 * "[How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)" by [Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/).
-* "[How to do good research](https://people.csail.mit.edu/fredo/DoGoodResearch.pdf)" by [Frédo Durand](https://people.csail.mit.edu/fredo/student.html).
+* "[How to do good research](https://people.csail.mit.edu/fredo/DoGoodResearch.pdf)" by [Frédo Durand](https://people.csail.mit.edu/fredo/student.html). Part of [Resources for Students & Scholars](https://people.csail.mit.edu/fredo/student.html).
 * "[Writing Research Papers](https://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf)" by [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/). Look at "[Advice for Graduate Students](https://www.dgp.toronto.edu/~hertzman/advice/)" and "[Graduate Skills Seminars, 2010-2011](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/)" as well.
 * "[How to do research](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)" by [William T. Freeman](https://billf.mit.edu/).
 * [Researcher guidelines for Linux](https://www.kernel.org/doc/html/latest/process/researcher-guidelines.html)
 * "[Writing a scientific article: A step-by-step guide for beginners](https://www.sciencedirect.com/science/article/pii/S1878764915001606)"
+* [I ****ing hate Science](https://buttondown.email/hillelwayne/archive/i-ing-hate-science/)
 
 ## Writing
 
@@ -32,6 +33,8 @@
 * "[How to Get a Paper Accepted at OOPSLA](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html)" by Kent Beck.
 * "[The Science of Scientific Writing](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf)" by George D. Gopen and Judith A. Swan, In American Scientist, Vol. 78, No. 6 (Nov–Dec, 1990), pp. 550–558.
 * "[On writing](https://terrytao.wordpress.com/advice-on-writing-papers/)" by [Terence Tao](https://terrytao.wordpress.com/).
+* [The Grammar of Mathematics: Writing About Variables](https://blog.apastyle.org/apastyle/2011/08/the-grammar-of-mathematics-writing-about-variables.html)
+* [How to write the introduction](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.g1cd4167aa3_0_111)
 
 ### Books
 
@@ -43,6 +46,14 @@
 
 * "[Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)".
 * "[style-check for LaTex](https://github.com/nspring/style-check). [Good references](https://github.com/nspring/style-check#entertainment) for more concise writing.
+* [Common errors in bibliographies](https://www.ece.ucdavis.edu/~jowens/biberrors.html)
+* [Keeping tables/figures close to where they are mentioned](https://tex.stackexchange.com/questions/2275/keeping-tables-figures-close-to-where-they-are-mentioned)
+* [Basic diagram examples](https://ctan.mirrors.hoobly.com/graphics/pgf/contrib/timing-diagrams/diagrams-examples.tex)
+* [LaTeX/Presentations](https://en.wikibooks.org/wiki/LaTeX/Presentations)
+* [LaTeX Books and Articles](https://www.dickimaw-books.com/latex/)
+* [How to Write a Minimalistic CV in LaTeX](https://latex-tutorial.com/cv-latex-guide/)
+* [Self-publishing your (LaTeX) thesis](https://3d.bk.tudelft.nl/ken/en/2016/03/20/self-publishing-your-latex-thesis.html)
+* [LaTeX book with examples, open-source eBook](https://github.com/AnMnv/eBook)
 
 ## Talking
 
@@ -70,6 +81,7 @@
 
 ### General
 
+* [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/index.htm)
 * "[Handbook of Biological Statistics](http://www.biostathandbook.com/)" by John H. McDonald.
 https://www.youtube.com/@datatab/videos
 * "[DATAtab YouTube channel](https://www.youtube.com/@datatab/featured)"
@@ -78,10 +90,39 @@ https://www.youtube.com/@datatab/videos
 * "[Biostatistics Book Series](https://github.com/FransRodenburg/Biostatistics-Book-Series)" by Frans Rodenburg.
 * [Cochran–Armitage test for trend](https://en.wikipedia.org/wiki/Cochran%E2%80%93Armitage_test_for_trend)
 * [A Look at Precision, Recall, and F1-Score](https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec) by Teemu Kanstrén.
+* [How should one interpret the comparison of means from different sample sizes?](https://stats.stackexchange.com/questions/31326/how-should-one-interpret-the-comparison-of-means-from-different-sample-sizes)
+* [30 Samples. Standard, Suggestion, or Superstition?](https://statswithcats.net/2010/07/11/30-samples-standard-suggestion-or-superstition/)
+* [Science and Cookies](https://statswithcats.net/)
+
+### Descriptive statistics, normality, correlations
+
+* [Normality Tests for Statistical Analysis: A Guide for Non-Statisticians](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3693611/)
+* [Correlation](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R5_Correlation-Regression/R5_Correlation-Regression3.html)
+* [Correlation](https://rstudio-pubs-static.s3.amazonaws.com/370973_b17d04942b4f4a0392735b540ab4032e.html) by Pavan Akula.
+* [User's guide to correlation coefficients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107969/) by Haldun Akoglu.
+* [Correlation Coefficients](https://www.andrews.edu/~calkins/math/edrm611/edrm05.htm)
+* [Pearson Product-Moment Correlation](https://statistics.laerd.com/statistical-guides/pearson-correlation-coefficient-statistical-guide.php)
+* [Types of Variables, Descriptive Statistics, and Sample Size](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6362742/)
+* [Everything You Need To Know About Correlation](https://towardsdatascience.com/everything-you-need-to-know-about-correlation-3ef78f22fcad)
+* [What does recall mean in Machine Learning?](https://stackoverflow.com/questions/14117997/what-does-recall-mean-in-machine-learning)
+* [Power Analysis](https://www.statmethods.net/stats/power.html)
+* [Power Analysis in Experimental Design](https://www.socr.umich.edu/people/dinov/courses/DSPA_notes/DSPA_Appendix_04_PowerAnalysis.html)
+* [Simulation for Power Analysis](https://nickch-k.github.io/EconometricsSlides/Week_08/Power_Simulations.html)
+* [Power to the People: Power, Negative Results and Sample Size](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6978577/) by Brianna N Gaskill and Joseph P Garner.
+* [Kruskal–Wallis Test](https://rcompanion.org/rcompanion/d_06.html)
+* [Rigorous definition of an outlier?](https://stats.stackexchange.com/questions/7155/rigorous-definition-of-an-outlier?noredirect=1&lq=1)
+* [Dunn's test](https://stats.stackexchange.com/tags/dunn-test/info)
+* [Descriptive Statistics and Normality Tests for Statistical Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350423/)
+* [Multiple comparisons with many groups](https://stats.stackexchange.com/questions/133560/multiple-comparisons-with-many-groups/)
+* [Review of Taleb, Nassim Nicholas. The Black Swan: The impact of the highly improbable.](https://www.stat.berkeley.edu/~aldous/157/Books/taleb.html)
+* [What references should be cited to support using 30 as a large enough sample size?](https://stats.stackexchange.com/questions/2541/what-references-should-be-cited-to-support-using-30-as-a-large-enough-sample-siz)
+* [Precision or Recall: Which Should You Use?](https://towardsdatascience.com/explaining-precision-vs-recall-to-everyone-295d4848edaf#:~:text=Using%20our%20apple%20and%20oranges,classified%20apples%20were%20actually%20oranges.)
+* [The Chi-square test of independence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900058/) by Mary L. McHugh.
 
 ### The madness and controversy of p-values
 
 * "[The ASA Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)" by Ronald L. Wasserstein and Nicole A. Lazar.
+* [Bad statistical practice in pharmacology (and other basic biomedical disciplines): you probably don't know P](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419900/) by Michael J. Lew.
 * [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://www.tandfonline.com/toc/utas20/73/sup1). The American Statistician, Volume 73, Issue sup1 (2019).
 * "[Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) by Ronald L. Wasserstein, Allen L. Schirm, and Nicole A. Lazar.
 * "[An investigation of the false discovery rate and the misinterpretation of p-values](https://royalsocietypublishing.org/doi/10.1098/rsos.140216#d3e1143)" by David Colquhoun.
@@ -109,6 +150,7 @@ https://www.youtube.com/@datatab/videos
 * "[Confidence intervals for an effect size measure based on the Mann-Whitney statistic. Part 1: general issues and tail-area-based methods](https://pubmed.ncbi.nlm.nih.gov/16252269/)" by Robert G. Newcombe.
 * "[Confidence Intervals of the Mann-Whitney Parameter that are Compatible with the Wilcoxon-Mann-Whitney Test](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6377068/)" by Michael P. Fay1 and Yaakov Malinovsky.
 * [Tests for Ordinal Categorical Data](https://www.youtube.com/watch?v=2L_QAgVXyhc)
+* [Mann Whitney U Test (Wilcoxon Rank Sum Test)](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)
 
 ## People who write interesting stuff about research and real life
 
@@ -193,13 +235,48 @@ https://www.youtube.com/@datatab/videos
 
 ## Random articles about R
 
+* [JABSTB: Statistical Design and Analysis of Experiments with R](https://tjmurphy.github.io/jabstb/)
 * "[Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html)" by Salvatore S. Mangiafico.
 * "[R for Data Science](https://r4ds.had.co.nz/index.html)" by Hadley Wickham and Garrett Grolemund.
 * "[Wilcoxon test in R](https://statsandr.com/blog/wilcoxon-test-in-r-how-to-compare-2-groups-under-the-non-normality-assumption/)" by Antoine Soetewey.
 * "[Chi-square test of independence in R](https://statsandr.com/blog/chi-square-test-of-independence-in-r/)" by Antoine Soetewey.
+* [Chi-squared Test of Independence](https://www.r-tutor.com/elementary-statistics/goodness-fit/chi-squared-test-independence)
+* [Multiple linear regression made simple](https://statsandr.com/blog/multiple-linear-regression-made-simple/) by Antoine Soetewey.
 * "[Data Exploration: The Titanic](https://bio304-class.github.io/bio304-fall2017/data-story-titanic.html)"
 * "[How to Perform Correlation Analysis in Time Series data using R?](https://www.lobdata.com.br/2020/09/15/how-to-perform-correlation-analysis-in-time-series-data-using-r/)" by Luciano Oliveira Batista.
 * "[Testing for time trend](http://ritsokiguess.site/docs/2017/12/16/testing-for-time-trend/)" by Ken.
 * "[R Cookbook, 2nd Edition](https://rc2e.com/index.html)" by James (JD) Long and Paul Teetor.
 * [Contingency Tables](http://analyticswithr.com/contingencytables.html)
-
+* [R - QQPlot: how to see whether data are normally distributed](https://stats.stackexchange.com/questions/52293/r-qqplot-how-to-see-whether-data-are-normally-distributed)
+* [Why is message() a better choice than print() in R for writing a package?](https://stackoverflow.com/questions/36699272/why-is-message-a-better-choice-than-print-in-r-for-writing-a-package)
+* [Aggregating and analyzing data with dplyr](https://datacarpentry.org/R-genomics/04-dplyr.html)
+* [Scatterplots](https://www.statmethods.net/graphs/scatterplot.html)
+* [Bar Plots](https://www.statmethods.net/graphs/bar.html)
+* [ggplot2 axis ticks : A guide to customize tick marks and labels](http://www.sthda.com/english/wiki/ggplot2-axis-ticks-a-guide-to-customize-tick-marks-and-labels)
+* [GGPlot Axis Limits and Scales](https://www.datanovia.com/en/blog/ggplot-axis-limits-and-scales/)
+* [ggsave : Save a ggplot - R software and data visualization](http://www.sthda.com/english/wiki/ggsave-save-a-ggplot-r-software-and-data-visualization)
+* [Normality Test in R](https://www.datanovia.com/en/lessons/normality-test-in-r/)
+* [Outliers detection in R](https://statsandr.com/blog/outliers-detection-in-r/)
+* [Compute Summary Statistics in R](https://www.datanovia.com/en/lessons/compute-summary-statistics-in-r/)
+* [Group by one or more variables](https://dplyr.tidyverse.org/reference/group_by.html)
+* [R - Scatterplots](https://www.tutorialspoint.com/r/r_scatterplots.htm)
+* [How to Detect,Impute or Remove Outliers from a Dataset using Percentile Capping Method in R](https://excelkingdom.blogspot.com/2018/12/how-to-detectimpute-or-remove-outliers.html)
+* [Descending order](https://dplyr.tidyverse.org/reference/desc.html)
+* [Logarithmic scale in R with ggplot2](https://www.roelpeters.be/logarithmic-scale-in-r-with-ggplot2/)
+* [Basic Plotting With ggplot2](https://bookdown.org/rdpeng/RProgDA/basic-plotting-with-ggplot2.html)
+* [ANOVA in R](https://www.datanovia.com/en/lessons/anova-in-r/)
+* [How to Filter in R: A Detailed Introduction to the dplyr Filter Function](https://www.r-bloggers.com/2019/04/how-to-filter-in-r-a-detailed-introduction-to-the-dplyr-filter-function/)
+* [Data visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
+* [GGPlot Log Scale Transformation](https://www.datanovia.com/en/blog/ggplot-log-scale-transformation/)
+* [Annotation: log tick marks](https://ggplot2.tidyverse.org/reference/annotation_logticks.html)
+* [How to Remove Outliers in R](https://www.r-bloggers.com/2020/01/how-to-remove-outliers-in-r/)
+* [Correlation Test Between Two Variables in R](http://www.sthda.com/english/wiki/correlation-test-between-two-variables-in-r)
+* [Using Dates and Times in R](https://www.noamross.net/archives/2014-02-10-using-times-and-dates-in-r-presentation-code/)
+* [ggplot2 scatter plots : Quick start guide - R software and data visualization](http://www.sthda.com/english/wiki/ggplot2-scatter-plots-quick-start-guide-r-software-and-data-visualization#basic-scatter-plots)
+* [Machine Learning with R: A Complete Guide to Decision Trees](https://appsilon.com/r-decision-treees/)
+* [Chi-Square Test of Independence in R](http://www.sthda.com/english/wiki/chi-square-test-of-independence-in-r)
+* [Decision Tree in R: Classification Tree with Example](https://www.guru99.com/r-decision-trees.html)
+* [Spearman Rank Correlation](https://rpubs.com/aaronsc32/spearman-rank-correlation)
+* [Correlation tests Using R](https://www.dataanalytics.org.uk/correlation-tests-using-r/)
+* [Statistical Analysis](https://www.uvm.edu/~tdonovan/RforFledglings/statistical-analysis.html)
+* [Visualizing data with ggplot2](https://datacarpentry.org/dc_zurich/R-ecology/05-visualisation-ggplot2.html)

@@ -31,6 +31,7 @@ Read "[Producing wrong data without doing anything obviously wrong!](https://dl.
 - Studying for [interviews](interviewing.md).
 - All things [memory management](memory.md).
 - [Compiler warnings](warnings.md).
+- [Software development](software.md).
 
 ### Recent papers and talks
 
