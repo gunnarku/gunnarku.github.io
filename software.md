@@ -38,7 +38,7 @@
 
 * [Beej's Quick Guide to GDB](http://beej.us/guide/bggdb/)
 * [LLDB to GDB Command Map](http://lldb.llvm.org/lldb-gdb.html)
-* [GDB Vs. WinDbg Commands | Technokrafti's Weblog](https://blogsai.wordpress.com/2009/11/30/gdb-and-windbg/)
+* [GDB Vs. WinDbg Commands - Technokrafti's Weblog](https://blogsai.wordpress.com/2009/11/30/gdb-and-windbg/)
 * [How can I scroll back in GDB's command window in the TUI mode? - Stack Overflow](http://stackoverflow.com/questions/9257085/how-can-i-scroll-back-in-gdbs-command-window-in-the-tui-mode)
 
 

@@ -28,5 +28,5 @@
 * [An introduction to deterministic builds with C/C++](https://blog.conan.io/2019/09/02/Deterministic-builds-with-C-C++.html)
 * [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 * [Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)
-* [CMake part 2: Compiler flags | fede.tft's Blog](https://fedetft.wordpress.com/2009/12/21/cmake-part-2-compiler-flags/)
+* [CMake part 2: Compiler flags - fede.tft's Blog](https://fedetft.wordpress.com/2009/12/21/cmake-part-2-compiler-flags/)
 

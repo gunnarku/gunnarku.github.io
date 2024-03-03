@@ -15,8 +15,8 @@
 * [Using Dynamic Libraries](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/UsingDynamicLibraries.html)
 * [Trace Dynamic Memory Allocations](https://craftware.xyz/tips/Trace-memory-allocations.html)
 * [Page Cache, the Affair Between Memory and Files](https://manybutfinite.com/post/page-cache-the-affair-between-memory-and-files/)
-* [About Memory Management | Advanced Memory Management Programming Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011i)
-* [About the Virtual Memory System | Memory Usage Performance Guidelines](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html). Start from the [top](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/ManagingMemory.html#//apple_ref/doc/uid/10000160i). Definitely read [Tips for Allocating Memory](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/MemoryAlloc.html).
+* [About Memory Management - Advanced Memory Management Programming Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011i)
+* [About the Virtual Memory System - Memory Usage Performance Guidelines](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html). Start from the [top](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/ManagingMemory.html#//apple_ref/doc/uid/10000160i). Definitely read [Tips for Allocating Memory](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/MemoryAlloc.html).
 * [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416/)
 * [No pressure, Mon! Handling low memory conditions in iOS and Mavericks](https://newosxbook.com/articles/MemoryPressure.html)
 
@@ -86,7 +86,6 @@ Take the following with a grain of salt.
 * [Persistent Memory Allocation](https://queue.acm.org/detail.cfm?id=3534855&doi=10.1145%2F3534855)
 * [How to exploit a double free vulnerability in 2021](https://github.com/stong/how-to-exploit-a-double-free)
 * [Scalable memory allocation using jemalloc](https://www.facebook.com/notes/facebook-engineering/scalable-memory-allocation-using-jemalloc/480222803919/)
-
 
 ## Performance
 
