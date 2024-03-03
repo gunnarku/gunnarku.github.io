@@ -32,6 +32,7 @@ Read "[Producing wrong data without doing anything obviously wrong!](https://dl.
 - All things [memory management](memory.md).
 - [Compiler warnings](warnings.md).
 - [Software development](software.md).
+- [MySQL](mysql.cmd).
 
 ### Recent papers and talks
 

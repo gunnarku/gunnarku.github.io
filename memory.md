@@ -85,6 +85,8 @@ Take the following with a grain of salt.
 * [Some things I've learned about memory](https://neugierig.org/software/blog/2011/05/memory.html)
 * [Persistent Memory Allocation](https://queue.acm.org/detail.cfm?id=3534855&doi=10.1145%2F3534855)
 * [How to exploit a double free vulnerability in 2021](https://github.com/stong/how-to-exploit-a-double-free)
+* [Scalable memory allocation using jemalloc](https://www.facebook.com/notes/facebook-engineering/scalable-memory-allocation-using-jemalloc/480222803919/)
+
 
 ## Performance
 
