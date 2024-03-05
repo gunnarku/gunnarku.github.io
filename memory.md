@@ -122,6 +122,7 @@ Take the following with a grain of salt.
 * [What Programmers Should Know About Memory Allocation - S. Al Bahra, H. Sowa, P. Khuong - CppCon 2019](https://www.youtube.com/watch?v=gYfd25Bdmws)
 * [Abusing Your Memory Model for Fun and Profit - Samy Al Bahra, Paul Khuong - CppCon 2019](https://www.youtube.com/watch?v=N07tM7xWF1U)
 * [Building a Lock-free Multi-producer, Multi-consumer Queue for Tcmalloc - Matt Kulukundis - CppCon 21](https://www.youtube.com/watch?v=_qaKkHuHYE0)
+* [FOWM'24: What we learned from C++ atomics and memory model standardization](https://www.youtube.com/watch?v=Ss7gIs2-hzk)
 
 # Papers and references on allocators and memory management
 

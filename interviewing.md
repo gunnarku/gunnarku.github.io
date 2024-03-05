@@ -43,6 +43,7 @@
 
 ### Selected CppCon talks
 
+* [C++23: An Overview of Almost All New and Updated Features - Marc Gregoire - CppCon 2023](https://www.youtube.com/watch?v=Cttb8vMuq-Y)
 * [CppCon 2016: Hans Boehm "Using weakly ordered C++ atomics correctly"](https://www.youtube.com/watch?v=M15UKpNlpeM)
 * [Your New Mental Model of constexpr - Jason Turner - CppCon 2021](https://www.youtube.com/watch?v=MdrfPSUtMVM)
 * [Faster, Easier, Simpler Vectors - David Stone - CppCon 2021](https://www.youtube.com/watch?v=MfFzr9qqPDw)

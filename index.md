@@ -19,20 +19,13 @@ My thesis supervisors were [Dr. Ayushi Rastogi](https://ayushirastogi.github.io/
 I was part of the [Software Engineering and Architecture research group](https://search-rug.github.io/).
 A preprint of every recent research paper I have written and accepted by arXiv is available [there](https://arxiv.org/search/cs?searchtype=author&query=Kudrjavets,+G) for free.
 
+[Resources](resources.md) I found helpful in pretending to be a semi-functioning Ph.D. candidate.
+
 My research projects focus on empirical challenges coming from the existing large-scale software projects in industry.
 The key qualifier for me is the practical application of results.
 Any study I am involved with must be eventually useful for software engineers.
 Niklaus Wirth's "[A Plea for Lean Software](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)" is still one of my favorite CS papers.
 Read "[Producing wrong data without doing anything obviously wrong!](https://dl.acm.org/doi/10.1145/1508244.1508275)" and ponder about how complicated it is to produce valid results.
-
-## References and link collections
-
-- [Resources](resources.md) I found helpful in pretending to be a semi-functioning Ph.D. candidate.
-- Studying for [interviews](interviewing.md).
-- All things [memory management](memory.md).
-- [Compiler warnings](warnings.md).
-- [Software development](software.md).
-- [MySQL](mysql.md).
 
 ### Recent papers and talks
 
@@ -75,3 +68,12 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - PC member for the [ICSE 2024 Technical Briefings program](https://conf.researchr.org/track/icse-2024/icse-2024-technical-briefings).
 
 **Keywords:** Empirical Software Engineering; Assertions; Memory Management; Mining Software Repositories; Systems Programming
+
+## References and link collections
+
+- Studying for [FAANG interviews](interviewing.md).
+- All things [memory management](memory.md).
+- An irrational passion of mine: [compiler warnings](warnings.md).
+- Various topics in [software development](software.md).
+- From when I used to work on a [MySQL](mysql.md) storage engine.
+
