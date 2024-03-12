@@ -10,7 +10,7 @@
 * [Hacker News thread](https://news.ycombinator.com/item?id=24515019) pointing to [this](https://www.allthingsdistributed.com/2020/09/reinventing-virtualization-with-nitro.html).
 * [GitHub hits for AWS and Nitro](https://github.com/search?q=org%3Aaws%20nitro&type=code)
 
-## YouTUbe for the win!
+## YouTube for the win!
 
 * [AWS re:Invent 2017 - The Amazon EC2 Nitro System Architecture](https://www.youtube.com/watch?v=02EbskIXCOc)
 * [AWS re:Invent 2018: Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)](https://www.youtube.com/watch?v=e8DVmwj3OEs&t=2007s)

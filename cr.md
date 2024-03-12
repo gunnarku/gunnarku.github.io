@@ -31,4 +31,3 @@ started with:
 * [A list of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet)
 * [Problems with Pull Requests and How to Fix Them](https://gregoryszorc.com/blog/2020/01/07/problems-with-pull-requests-and-how-to-fix-them/)
 
-
