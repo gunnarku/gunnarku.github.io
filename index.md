@@ -18,6 +18,8 @@ My academic ties were associated with the [University of Groningen](https://sear
 ## Research
 
 I defended my dissertation on October 17, 2023.
+My dissertation received the [MSR 2024 Distinguished Doctoral Research Award](https://2024.msrconf.org/track/msr-2024-msr-awards).
+The speed of code reviews matters! ;-)
 Majority of my research was related to the insanity of [code reviews](cr.md).
 My thesis supervisors were [Dr. Ayushi Rastogi](https://ayushirastogi.github.io/) and [Prof. Paris Avgeriou](https://www.cs.rug.nl/~paris/) from the [Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence](https://www.rug.nl/research/bernoulli/) at the [University of Groningen](https://www.rug.nl/) in Netherlands.
 I was part of the [Software Engineering and Architecture research group](https://search-rug.github.io/).
