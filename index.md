@@ -8,19 +8,20 @@ My favorite theater of operations is the unpleasantness of reality.
 
 [Microsoft](https://www.microsoft.com/en-us/) taught me how to be an operating systems engineer who knows a thing or two about systems performance and security.
 [Meta](https://www.meta.com/) (a company formerly known as Facebook) enabled me to refine those skills in a different context.
-As of March 2024, I am a Principal Engineer at [AWS EC2 Nitro](https://aws.amazon.com/ec2/nitro/) team.
+
+As of March 2024, I am a Principal Engineer at Amazon ([AWS EC2 Nitro](https://aws.amazon.com/ec2/nitro/) team).
 You can read more about the Nitro System [here](https://docs.aws.amazon.com/whitepapers/latest/security-design-of-aws-nitro-system/security-design-of-aws-nitro-system.html) or look at publicly available [resources](nitro.md).
 
-A public description of my career evolution is on my [LinkedIn page](https://www.linkedin.com/in/gunnarku/).
-
-My academic ties were associated with the [University of Groningen](https://search-rug.github.io/) (Netherlands), but I still live physically in Seattle suburbia, Washington, USA.
+Physically, I live in Seattle suburbia (Washington, USA).
 
 ## Research
 
+My academic ties were associated with the [University of Groningen](https://search-rug.github.io/) (Netherlands).
 I defended my dissertation on October 17, 2023.
+Majority of my research was related to the insanity of [code reviews](cr.md).
 My dissertation received the [MSR 2024 Distinguished Doctoral Research Award](https://2024.msrconf.org/track/msr-2024-msr-awards).
 The speed of code reviews matters! ;-)
-Majority of my research was related to the insanity of [code reviews](cr.md).
+
 My thesis supervisors were [Dr. Ayushi Rastogi](https://ayushirastogi.github.io/) and [Prof. Paris Avgeriou](https://www.cs.rug.nl/~paris/) from the [Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence](https://www.rug.nl/research/bernoulli/) at the [University of Groningen](https://www.rug.nl/) in Netherlands.
 I was part of the [Software Engineering and Architecture research group](https://search-rug.github.io/).
 A preprint of every recent research paper I have written and accepted by arXiv is available [there](https://arxiv.org/search/cs?searchtype=author&query=Kudrjavets,+G) for free.
