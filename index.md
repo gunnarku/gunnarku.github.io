@@ -8,6 +8,7 @@ My favorite theater of operations is the unpleasantness of reality.
 
 [Microsoft](https://www.microsoft.com/en-us/) taught me how to be an operating systems engineer who knows a thing or two about systems performance and security.
 [Meta](https://www.meta.com/) (a company formerly known as Facebook) enabled me to refine those skills in a different context.
+Ironically, I now work on various things related to Linux (kernel) internals.
 
 As of March 2024, I am a Principal Engineer at Amazon ([AWS EC2 Nitro](https://aws.amazon.com/ec2/nitro/) team).
 You can read more about the Nitro System [here](https://docs.aws.amazon.com/whitepapers/latest/security-design-of-aws-nitro-system/security-design-of-aws-nitro-system.html) or look at publicly available [resources](nitro.md).
@@ -73,6 +74,7 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - PC member for the [ICSME 2023 Artifact Evaluation Track and ROSE Festival](https://conf.researchr.org/track/icsme-2023/icsme-2023-artifact-evaluation-track-and-rose-festival).
 - PC member for the [Demonstrations Track of the ESEC/FSE 2024](https://2024.esec-fse.org/track/fse-2024-demonstrations).
 - PC member for the [ICSE 2024 Technical Briefings program](https://conf.researchr.org/track/icse-2024/icse-2024-technical-briefings).
+- PC member for the [ICSME 2024 Industry Track](https://conf.researchr.org/track/icsme-2024/icsme-2024-industry-track).
 
 **Keywords:** Empirical Software Engineering; Assertions; Memory Management; Mining Software Repositories; Systems Programming
 
