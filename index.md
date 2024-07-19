@@ -37,6 +37,7 @@ Read "[Producing wrong data without doing anything obviously wrong!](https://dl.
 
 ### Recent papers and talks
 
+- Gunnar Kudrjavets. 2024. *[Debunking the Myths of Code Velocity: The Elusive Search for Speed](https://dl.acm.org/doi/10.1145/3672089.3672098)*. ACM SIGSOFT Software Engineering Notes, Volume 49, Issue 3.
 - Gunnar Kudrjavets, Aditya Kumar, Jeff Thomas, and Ayushi Rastogi. 2024.  *[The Devil Is in the Command Line: Associating the Compiler Flags With the Binary and Build Metadata](https://arxiv.org/abs/2312.13463)*. In the 46th International Conference on Software Engineering (ICSE 2024). [SEIP Track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice). April 14-20, 2024, Lisbon, Portugal.
 - Gunnar Kudrjavets, Aditya Kumar, Jeff Thomas, and Ayushi Rastogi. 2024.  *[What Do You Mean by Memory? When Engineers Are Lost in the Maze of Complexity](https://arxiv.org/abs/2312.13462)*. In the 46th International Conference on Software Engineering (ICSE 2024). [SEIP Track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice). April 14-20, 2024, Lisbon, Portugal.
 - Marija Franka Žuljević, Antonija Mijatović, Stjepan Ljudevit Marušić, Gunnar Kudrjavets, Ivan Buljan, and Darko Hren. *[Mystical and Affective Aspects of Psychedelic Use in a Naturalistic Setting: A Linguistic Analysis of Online Experience Reports](https://doi.org/10.1080/02791072.2023.2274382)*. In Journal of Psychoactive Drugs. 2023.
