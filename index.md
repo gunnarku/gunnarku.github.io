@@ -11,6 +11,7 @@ My favorite theater of operations is the unpleasantness of reality.
 Ironically, I now work on various things related to Linux (kernel) internals.
 
 As of March 2024, I am a Principal Engineer at Amazon ([AWS EC2 Nitro](https://aws.amazon.com/ec2/nitro/) team).
+It feels good to be back and act as a "[man who is actually in the arena](https://www.goodreads.com/quotes/7-it-is-not-the-critic-who-counts-not-the-man)" and not just a random poser who talks about software engineering.
 You can read more about the Nitro System [here](https://docs.aws.amazon.com/whitepapers/latest/security-design-of-aws-nitro-system/security-design-of-aws-nitro-system.html) or look at publicly available [resources](nitro.md).
 
 Physically, I live in Seattle suburbia (Washington, USA).
@@ -32,8 +33,10 @@ A preprint of every recent research paper I have written and accepted by arXiv i
 My research projects focus on empirical challenges coming from the existing large-scale software projects in industry.
 The key qualifier for me is the practical application of results.
 Any study I am involved with must be eventually useful for software engineers.
-Niklaus Wirth's "[A Plea for Lean Software](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)" is still one of my favorite CS papers.
-Read "[Producing wrong data without doing anything obviously wrong!](https://dl.acm.org/doi/10.1145/1508244.1508275)" and ponder about how complicated it is to produce valid results.
+
+- Niklaus Wirth's "[A Plea for Lean Software](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)" is still one of my favorite CS papers.
+- Read "[Producing wrong data without doing anything obviously wrong!](https://dl.acm.org/doi/10.1145/1508244.1508275)" and ponder about how complicated it is to produce valid results.
+- Read "[Thoughts on applicability](https://doi.org/10.1016/j.jss.2024.112086)" to understand why there is such a disconnect between academics and practitioners.
 
 ### Recent papers and talks
 
