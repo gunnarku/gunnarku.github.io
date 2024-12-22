@@ -23,6 +23,7 @@
 * [Amazon EC2: Nitro System Support for Previous Generation Instances](https://www.youtube.com/watch?v=PoenOPLX3ic)
 * [AWS re:Inforce 2023 - Security design of the AWS Nitro System (DAP401)](https://www.youtube.com/watch?v=hhAHyc9x3M4)
 * [AWS re:Invent 2023 - Deep dive into the AWS Nitro System (CMP306)](https://www.youtube.com/watch?v=Cxie0FgLogg)
+* [AWS re:Invent 2024 - Dive deep into the AWS Nitro System (CMP301)](https://www.youtube.com/watch?v=YKZbNcOU77c)
 
 ## Research
 
