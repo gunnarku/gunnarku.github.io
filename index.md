@@ -40,6 +40,7 @@ Any study I am involved with must be eventually useful for software engineers.
 
 ### Recent papers and talks
 
+- Gunnar Kudrjavets. 2025. *[Patch Me If You Can—Securing the Linux Kernel](preprints/Patch_me_if_you_can_MSR_2025.pdf)*. In Proceedings of MSR '25: Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2025). [Industry Track](https://2025.msrconf.org/track/msr-2025-industry-track). April 28-29, 2025, Ottawa, Canada.
 - Gunnar Kudrjavets. 2024. *[Debunking the Myths of Code Velocity: The Elusive Search for Speed](https://dl.acm.org/doi/10.1145/3672089.3672098)*. ACM SIGSOFT Software Engineering Notes, Volume 49, Issue 3.
 - Gunnar Kudrjavets, Aditya Kumar, Jeff Thomas, and Ayushi Rastogi. 2024.  *[The Devil Is in the Command Line: Associating the Compiler Flags With the Binary and Build Metadata](https://arxiv.org/abs/2312.13463)*. In the 46th International Conference on Software Engineering (ICSE 2024). [SEIP Track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice). April 14-20, 2024, Lisbon, Portugal.
 - Gunnar Kudrjavets, Aditya Kumar, Jeff Thomas, and Ayushi Rastogi. 2024.  *[What Do You Mean by Memory? When Engineers Are Lost in the Maze of Complexity](https://arxiv.org/abs/2312.13462)*. In the 46th International Conference on Software Engineering (ICSE 2024). [SEIP Track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice). April 14-20, 2024, Lisbon, Portugal.
