@@ -83,6 +83,8 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - PC member for the [ICSE 2025 Software Engineering in Practice (SEIP) Track](https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice)
 - PC member for the [MSR Awards Committee - MSR 2025](https://2025.msrconf.org/committee/msr-2025-msr-awards-msr-awards-committee)
 - PC member for the [ICSME 2025 Industry Track](https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track).
+- PC member for the [ICSE 2026 Software Engineering in Practice (SEIP) Track](https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice)
+- PC member for the [ICSA 2026 Software Architecture in Practice Track](https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track)
 
 **Keywords:** Empirical Software Engineering; Assertions; Memory Management; Mining Software Repositories; Systems Programming
 
