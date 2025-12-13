@@ -38,6 +38,11 @@ Any study I am involved with must be eventually useful for software engineers.
 - Read "[Producing wrong data without doing anything obviously wrong!](https://dl.acm.org/doi/10.1145/1508244.1508275)" and ponder about how complicated it is to produce valid results.
 - Read "[Thoughts on applicability](https://doi.org/10.1016/j.jss.2024.112086)" to understand why there is such a disconnect between academics and practitioners.
 
+Knuth has some of the best statements about the complexity of software development:
+
+- [Interview: Donald Knuth: A Life’s Work Interrupted](https://cacm.acm.org/opinion/interview-donald-knuth-a-lifes-work-interrupted/) - "*I found that writing software was much more difficult than anything else I had done in my life*."
+- [All Questions Answered](https://www.ams.org/notices/200203/fea-knuth.pdf) - "*In fact, my main conclusion after spending ten years of my life working on the TeX project is that software is hard. It’s harder than anything else I’ve ever had to do*."
+
 ### Recent papers and talks
 
 - Gunnar Kudrjavets. 2025. *[Patch Me If You Can—Securing the Linux Kernel](preprints/Patch_me_if_you_can_MSR_2025.pdf)*. In Proceedings of MSR '25: Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2025). [Industry Track](https://2025.msrconf.org/track/msr-2025-industry-track). April 28-29, 2025, Ottawa, Canada.
@@ -96,4 +101,3 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - An irrational passion of mine: [compiler warnings](warnings.md).
 - Various topics in [software development](software.md).
 - From when I used to work on a [MySQL](mysql.md) storage engine.
-

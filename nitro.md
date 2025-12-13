@@ -24,9 +24,9 @@
 * [AWS re:Inforce 2023 - Security design of the AWS Nitro System (DAP401)](https://www.youtube.com/watch?v=hhAHyc9x3M4)
 * [AWS re:Invent 2023 - Deep dive into the AWS Nitro System (CMP306)](https://www.youtube.com/watch?v=Cxie0FgLogg)
 * [AWS re:Invent 2024 - Dive deep into the AWS Nitro System (CMP301)](https://www.youtube.com/watch?v=YKZbNcOU77c)
+* [AWS re:Invent 2025 - Deep Dive into the AWS Nitro System (CMP316)](https://www.youtube.com/watch?v=cD1mNQ9YbeA)
 
 ## Research
 
 * [Model Checking Boot Code from AWS Data Centers](https://link.springer.com/chapter/10.1007/978-3-319-96142-2_28)
 * [A Cloud-Optimized Transport Protocol for Elastic and Scalable HPC](https://ieeexplore.ieee.org/document/9167399)
-
