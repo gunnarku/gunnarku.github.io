@@ -45,6 +45,7 @@ Knuth has some of the best statements about the complexity of software developme
 
 ### Recent papers and talks
 
+- Piotr Przymus, Witold Weiner, Krzysztof Rykaczewski, and Gunnar Kudrjavets. 2026. *Linux Kernel Recency Matters, CVE Severity Doesn't, and History Fades*. In Proceedings of MSR '26: Proceedings of the 23rd International Conference on Mining Software Repositories ([MSR 2026](https://2026.msrconf.org/track/msr-2026-technical-papers)). April 13-14, 2026, Rio de Janeiro, Brazil.
 - Gunnar Kudrjavets. 2025. *[Patch Me If You Can—Securing the Linux Kernel](preprints/Patch_me_if_you_can_MSR_2025.pdf)*. In Proceedings of MSR '25: Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2025). [Industry Track](https://2025.msrconf.org/track/msr-2025-industry-track). April 28-29, 2025, Ottawa, Canada.
 - Gunnar Kudrjavets. 2024. *[Debunking the Myths of Code Velocity: The Elusive Search for Speed](https://dl.acm.org/doi/10.1145/3672089.3672098)*. ACM SIGSOFT Software Engineering Notes, Volume 49, Issue 3. The [preprint is here](preprints/Debunking_the_Myths_of_Code_Velocity_The_Elusive_Search_for_Speed.pdf).
 - Gunnar Kudrjavets, Aditya Kumar, Jeff Thomas, and Ayushi Rastogi. 2024.  *[The Devil Is in the Command Line: Associating the Compiler Flags With the Binary and Build Metadata](https://arxiv.org/abs/2312.13463)*. In the 46th International Conference on Software Engineering (ICSE 2024). [SEIP Track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice). April 14-20, 2024, Lisbon, Portugal.
@@ -85,12 +86,12 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - PC member for the [Demonstrations Track of the ESEC/FSE 2024](https://2024.esec-fse.org/track/fse-2024-demonstrations).
 - PC member for the [ICSE 2024 Technical Briefings program](https://conf.researchr.org/track/icse-2024/icse-2024-technical-briefings).
 - PC member for the [ICSME 2024 Industry Track](https://conf.researchr.org/track/icsme-2024/icsme-2024-industry-track).
-- PC member for the [ICSE 2025 Software Engineering in Practice (SEIP) Track](https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice)
-- PC member for the [MSR Awards Committee - MSR 2025](https://2025.msrconf.org/committee/msr-2025-msr-awards-msr-awards-committee)
+- PC member for the [ICSE 2025 Software Engineering in Practice (SEIP) Track](https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice).
+- PC member for the [MSR Awards Committee - MSR 2025](https://2025.msrconf.org/committee/msr-2025-msr-awards-msr-awards-committee).
 - PC member for the [ICSME 2025 Industry Track](https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track).
-- PC member for the [ICSE 2026 Software Engineering in Practice (SEIP) Track](https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice)
-- PC member for the [ICSA 2026 Software Architecture in Practice Track](https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track)
-- PC member for the [ICSE 2026 Tutorials and Technical Briefings](https://conf.researchr.org/track/icse-2026/icse-2026-tutorials)
+- PC member for the [ICSE 2026 Software Engineering in Practice (SEIP) Track](https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice).
+- PC member for the [ICSA 2026 Software Architecture in Practice Track](https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track).
+- PC member for the [ICSE 2026 Tutorials and Technical Briefings](https://conf.researchr.org/track/icse-2026/icse-2026-tutorials).
 
 **Keywords:** Empirical Software Engineering; Assertions; Memory Management; Mining Software Repositories; Systems Programming
 
