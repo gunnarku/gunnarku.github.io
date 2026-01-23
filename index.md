@@ -45,6 +45,7 @@ Knuth has some of the best statements about the complexity of software developme
 
 ### Recent papers and talks
 
+- Gunnar Kudrjavets, Aditya Kumar, and Piotr Przymus. 2026. *[Can Data Mining Help to Survive the Annual Compiler Upgrade?](preprints/msr-2026-compiler-upgrades.pdf)*. In 23rd International Conference on Mining Software Repositories ([MSR ’26](https://2026.msrconf.org/track/msr-2026-industry-track)), April 13–14, 2026, Rio de Janeiro, Brazil. 
 - Piotr Przymus, Witold Weiner, Krzysztof Rykaczewski, and Gunnar Kudrjavets. 2026. *Linux Kernel Recency Matters, CVE Severity Doesn't, and History Fades*. In Proceedings of MSR '26: Proceedings of the 23rd International Conference on Mining Software Repositories ([MSR 2026](https://2026.msrconf.org/track/msr-2026-technical-papers)). April 13-14, 2026, Rio de Janeiro, Brazil.
 - Gunnar Kudrjavets. 2025. *[Patch Me If You Can—Securing the Linux Kernel](preprints/Patch_me_if_you_can_MSR_2025.pdf)*. In Proceedings of MSR '25: Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2025). [Industry Track](https://2025.msrconf.org/track/msr-2025-industry-track). April 28-29, 2025, Ottawa, Canada.
 - Gunnar Kudrjavets. 2024. *[Debunking the Myths of Code Velocity: The Elusive Search for Speed](https://dl.acm.org/doi/10.1145/3672089.3672098)*. ACM SIGSOFT Software Engineering Notes, Volume 49, Issue 3. The [preprint is here](preprints/Debunking_the_Myths_of_Code_Velocity_The_Elusive_Search_for_Speed.pdf).
