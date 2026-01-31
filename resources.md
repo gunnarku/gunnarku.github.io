@@ -35,6 +35,7 @@
 * "[On writing](https://terrytao.wordpress.com/advice-on-writing-papers/)" by [Terence Tao](https://terrytao.wordpress.com/).
 * [The Grammar of Mathematics: Writing About Variables](https://blog.apastyle.org/apastyle/2011/08/the-grammar-of-mathematics-writing-about-variables.html)
 * [How to write the introduction](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.g1cd4167aa3_0_111)
+* [Tips and Guidance for Students and ECRs Writing Papers and Reports](https://gernot-heiser.org/style-guide.html) by [Gernot Heiser](https://gernot-heiser.org/).
 
 ### Books
 
