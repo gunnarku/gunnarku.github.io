@@ -30,9 +30,10 @@ A preprint of every recent research paper I have written and accepted by arXiv i
 
 [Resources](resources.md) I found helpful in pretending to be a semi-functioning Ph.D. candidate.
 
-My research projects focus on empirical challenges coming from the existing large-scale software projects in industry.
+My research projects focus on empirical challenges arising from large-scale software projects in industry.
 The key qualifier for me is the practical application of results.
-Any study I am involved with must be eventually useful for software engineers.
+Any study I am involved in must be useful to software engineers in the long term.
+My take on the majority of the empirical software engineering research is summarized by the Strachey's Philosophy: *["Much of the practical work done in computing, both in software and in hardware design, is unsound and clumsy because the people who do it have not any clear understanding of the fundamental design principles of their work."](https://www.cs.ox.ac.uk/activities/concurrency/courses/stracheys.html)*
 
 - Niklaus Wirth's "[A Plea for Lean Software](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)" is still one of my favorite CS papers.
 - Read "[Producing wrong data without doing anything obviously wrong!](https://dl.acm.org/doi/10.1145/1508244.1508275)" and ponder about how complicated it is to produce valid results.
