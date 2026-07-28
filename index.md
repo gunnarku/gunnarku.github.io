@@ -46,6 +46,7 @@ Knuth has some of the best statements about the complexity of software developme
 
 ### Recent papers and talks
 
+-  Dylan Johnson, Justinien Bouron, Alice Zielman, and Gunnar Kudrjavets. 2026. *[Kernel CVEs at AWS Scale: Two Years of Empirical Findings](https://lpc.events/event/20/contributions/2373/)*. Linux Plumbers Conference. October 5-7, Prague, Czechia.
 - Gunnar Kudrjavets, Aditya Kumar, and Piotr Przymus. 2026. *[Can Data Mining Help to Survive the Annual Compiler Upgrade?](preprints/msr-2026-compiler-upgrades.pdf)*. In 23rd International Conference on Mining Software Repositories ([MSR ’26](https://2026.msrconf.org/track/msr-2026-industry-track)), April 13–14, 2026, Rio de Janeiro, Brazil. 
 - Piotr Przymus, Witold Weiner, Krzysztof Rykaczewski, and Gunnar Kudrjavets. 2026. *[Linux Kernel Recency Matters, CVE Severity Doesn't, and History Fades](https://arxiv.org/abs/2601.22196)*. In Proceedings of MSR '26: Proceedings of the 23rd International Conference on Mining Software Repositories ([MSR 2026](https://2026.msrconf.org/track/msr-2026-technical-papers)). April 13-14, 2026, Rio de Janeiro, Brazil.
 - Gunnar Kudrjavets. 2025. *[Patch Me If You Can—Securing the Linux Kernel](preprints/Patch_me_if_you_can_MSR_2025.pdf)*. The official [DOI link](https://dl.acm.org/doi/abs/10.1109/MSR66628.2025.00031). In Proceedings of MSR '25: Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2025). [Industry Track](https://2025.msrconf.org/track/msr-2025-industry-track). April 28-29, 2025, Ottawa, Canada. The Communications of the ACM article *[Exposing Common Vulnerabilities](https://cacm.acm.org/news/exposing-common-vulnerabilities/)* references my work and quotes me ;-)
@@ -96,6 +97,7 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - PC member for the [ICSE 2026 Tutorials and Technical Briefings](https://conf.researchr.org/track/icse-2026/icse-2026-tutorials).
 - [Software Engineering in Practice (SEIP) 2026](https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice?). Distinguished Reviewer Award!
 - PC member for the [ESEIW 2026. ESEM - Software Engineering in Practice Track](https://conf.researchr.org/track/eseiw-2026/eseiw-2026-esem---seip-track).
+- PC member for the [ICSA 2027 ICSA Software Architecture in Practice Track](https://conf.researchr.org/committee/icsa-2027/icsa-2027-software-architecture-in-practice-track-software-architecture-in-practice).
 
 **Keywords:** Empirical Software Engineering; Assertions; Memory Management; Mining Software Repositories; Systems Programming
 
