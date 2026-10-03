@@ -98,6 +98,8 @@ Free Custom Memory Allocator](https://arxiv.org/abs/2206.11728)*. In 38th IEEE I
 - [Software Engineering in Practice (SEIP) 2026](https://conf.researchr.org/track/icse-2026/icse-2026-software-engineering-in-practice?). Distinguished Reviewer Award!
 - PC member for the [ESEIW 2026. ESEM - Software Engineering in Practice Track](https://conf.researchr.org/track/eseiw-2026/eseiw-2026-esem---seip-track).
 - PC member for the [ICSA 2027 ICSA Software Architecture in Practice Track](https://conf.researchr.org/committee/icsa-2027/icsa-2027-software-architecture-in-practice-track-software-architecture-in-practice).
+- PC member for the [ICSE 2027 Software Engineering in Practice (SEIP) Track](https://conf.researchr.org/track/icse-2027/icse-2027-seip).
+- PC member for the [MSR 2027 Data Showcase Committee within the Data and Tool Showcase Track](https://2027.msrconf.org/committee/msr-2027-data-and-tool-showcase-track-data-and-tool-showcase-track---program-committee).
 
 **Keywords:** Empirical Software Engineering; Assertions; Memory Management; Mining Software Repositories; Systems Programming
 
